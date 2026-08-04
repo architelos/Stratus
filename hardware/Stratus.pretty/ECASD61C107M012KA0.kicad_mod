@@ -1,0 +1,210 @@
+(footprint "ECASD61C107M012KA0"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Polymer Aluminum Electrolytic Capacitor 2917 68uF±20% 16V 40mΩ")
+	(property "Reference" "REF**"
+		(at -1.3 -3.05 0)
+		(layer "F.SilkS")
+		(uuid "73059491-8100-4bca-8e33-30c86a2763a5")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MURATA_ECASD41C686M040KA0_0"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "578adc31-518e-4305-b02e-6c4c3fd963b7")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4747accb-33e0-408f-8435-639dc100a158")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39147c92-6e8f-4c46-b563-de28deb91f72")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.8 -2.25)
+		(end 3.8 -2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e0b8c0e8-b381-4aee-aea4-c9b44de6fc28")
+	)
+	(fp_line
+		(start -3.8 -1.775)
+		(end -3.8 -2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "30f50257-fe9e-4423-84bb-72f6b52f012a")
+	)
+	(fp_line
+		(start -3.8 2.25)
+		(end -3.8 1.775)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "364d4817-7a51-4f23-942b-529736859734")
+	)
+	(fp_line
+		(start -3.8 2.25)
+		(end 3.8 2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "afd2344b-3d28-4cdb-a75e-c5bcb7a8b3e5")
+	)
+	(fp_line
+		(start 1.18 -0.25)
+		(end 1.18 0.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06f22884-846f-4bcd-a3d1-866dee8b87f7")
+	)
+	(fp_line
+		(start 1.43 0)
+		(end 0.93 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7401c5ab-4c89-4d70-b5ea-a5050d9f10d5")
+	)
+	(fp_line
+		(start 3.8 -1.775)
+		(end 3.8 -2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "47053ee9-2fc4-48c1-9e2d-c4a46f7c1423")
+	)
+	(fp_line
+		(start 3.8 2.25)
+		(end 3.8 1.775)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "be1db2b9-4ca7-4220-9912-ce6b34be9018")
+	)
+	(fp_rect
+		(start -4.66 -2.25)
+		(end 4.66 2.25)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "5cd30b8f-07f5-4434-af43-245954f72a33")
+	)
+	(fp_line
+		(start -3.8 -2.25)
+		(end 3.8 -2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5f1130b0-86e7-4d5c-938d-88eabb03e673")
+	)
+	(fp_line
+		(start -3.8 2.25)
+		(end -3.8 -2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e3d4a11d-f66b-473a-9e85-bd53cf956677")
+	)
+	(fp_line
+		(start 3.8 -2.25)
+		(end 3.8 2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "36af0670-83a7-4d41-85e5-ba4e37022392")
+	)
+	(fp_line
+		(start 3.8 2.25)
+		(end -3.8 2.25)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c17e196c-530d-43f3-bd0d-0c81567b61ed")
+	)
+	(pad "1" smd rect
+		(at 3.2 0)
+		(size 2.4 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0)
+		(uuid "894e2c59-98c1-4312-8c81-2dd6bc68387f")
+	)
+	(pad "2" smd rect
+		(at -3.2 0)
+		(size 2.4 2.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0)
+		(uuid "9168d6ef-5fbf-4c2d-9051-94a5c6bf5a12")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../Stratus.3dshapes/ECASD61C107M012KA0.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

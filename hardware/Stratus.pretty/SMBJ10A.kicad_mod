@@ -1,0 +1,239 @@
+(footprint "SMBJ10A"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Diode SMB (DO-214AA), Alternate KiCad Library")
+	(tags "Diode SMB (DO-214AA)")
+	(property "Reference" "D2"
+		(at 0 -3.508 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "25e05c9f-9591-47bd-a9ef-9b7be233b1dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SMBJ10A"
+		(at 0 3.1 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d64122bf-5235-4221-a48b-91ac2adf568f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.tme.eu/Document/0b6222bec7e12d83185b51d73cb6a54d/SMBJ_ser.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60f786a2-b31a-40dd-a3aa-8c223579eb00")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "SMB Unidirectional TVS diode, 10V, 600W, Alternate KiCAD Library"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9cc7922-44e4-4480-ad46-912c5e954c63")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+	(sheetname "/")
+	(sheetfile "esc.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.7 -2.3)
+		(end -3.7 2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b194029-2e83-4e2e-a27e-d28962393e66")
+	)
+	(fp_line
+		(start -3.7 2.3)
+		(end 3.7 2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5f7c103-33b8-4e12-99d6-b8faa6c4794c")
+	)
+	(fp_line
+		(start 3.7 -2.3)
+		(end -3.7 -2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e2cce065-43cc-4b2a-b868-031cce9e87d9")
+	)
+	(fp_line
+		(start 3.7 2.3)
+		(end 3.7 -2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f91a09e-410c-48bf-bffa-007dc4907b6a")
+	)
+	(fp_poly
+		(pts
+			(xy -1.2 -2.3) (xy -2.3 -2.3) (xy -2.3 -2.7) (xy -1.2 -2.7)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "8ecfa334-ebbd-46e0-b6d3-9c452d063148")
+	)
+	(fp_line
+		(start -3.65 -2.25)
+		(end 3.65 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d3d06c6-6afe-4a52-bfeb-9469a66105fd")
+	)
+	(fp_line
+		(start -3.65 2.25)
+		(end -3.65 -2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec75edd8-4f67-4426-9c8f-625241dd2570")
+	)
+	(fp_line
+		(start 3.65 -2.25)
+		(end 3.65 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "50e42c0a-d95c-443f-a3fd-8b7e22d4f895")
+	)
+	(fp_line
+		(start 3.65 2.25)
+		(end -3.65 2.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dcfb8c69-6175-41bc-abe5-4fb776130b0c")
+	)
+	(fp_line
+		(start -2.3 2)
+		(end -2.3 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c52f98cd-41f3-464d-b050-7c05d98aa340")
+	)
+	(fp_line
+		(start 2.3 -2)
+		(end -2.3 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d8d1244-a8cc-4f7b-af63-400711d2ee0e")
+	)
+	(fp_line
+		(start 2.3 -2)
+		(end 2.3 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f167f5e-f139-4169-8c6e-02e55873cd4f")
+	)
+	(fp_line
+		(start 2.3 2)
+		(end -2.3 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d767f24-b1f9-43d9-96ce-9ac6699dd623")
+	)
+	(fp_rect
+		(start -1.8 -2)
+		(end -1.2 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "d14609a4-62d5-4704-817c-fab09c2011e0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.55 0 0)
+		(layer "F.Fab")
+		(uuid "60d39702-e51a-45b1-acd9-3741b9f6075c")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.15 0)
+		(size 2.5 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1086956522)
+		(uuid "9b2e2f5e-ba5e-472f-ab53-8dcd6f48a8e8")
+	)
+	(pad "2" smd roundrect
+		(at 2.15 0)
+		(size 2.5 2.3)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1086956522)
+		(uuid "194fa1e4-00b5-4e9e-8471-d28ecbc42a47")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../Stratus.3dshapes/SMBJ10A.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

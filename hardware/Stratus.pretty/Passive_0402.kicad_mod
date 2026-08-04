@@ -1,0 +1,137 @@
+(footprint "Passive_0402"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+	(tags "resistor")
+	(property "Reference" "R65"
+		(at 0 -1.17 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "144e4e32-9767-4c82-bd88-3e5fe77fd1de")
+		(effects
+			(font
+				(size 0.3 0.3)
+			)
+		)
+	)
+	(property "Value" "10R"
+		(at 0 1.17 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89cff94a-e026-442d-9542-063e644b6af8")
+		(effects
+			(font
+				(size 0.3 0.3)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6109eb8-7aa1-4b97-a00d-89b90369456a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Resistor, small symbol"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "863e5a26-8340-418b-b742-36775154c95a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property ki_fp_filters "R_*")
+	(sheetname "/ESC Module 3/Half Bridge C/")
+	(sheetfile "half_bridge.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.153641 -0.38)
+		(end 0.153641 -0.38)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "577dfc4b-08c6-437b-8318-0a139af9a66e")
+	)
+	(fp_line
+		(start -0.153641 0.38)
+		(end 0.153641 0.38)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0af0420d-f236-4c93-b285-2486d7c05972")
+	)
+	(fp_poly
+		(pts
+			(xy 0.93 -0.47) (xy -0.93 -0.47) (xy -0.93 0.47) (xy 0.93 0.47)
+		)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "cf56a53a-ee98-44e1-a42b-5ff09a1ffc16")
+	)
+	(fp_poly
+		(pts
+			(xy 0.525 -0.27) (xy -0.525 -0.27) (xy -0.525 0.27) (xy 0.525 0.27)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fac3c3c6-4730-49a9-96dc-4bb3e884cad4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "1d4afd75-7dce-4a85-920e-ce46737d8288")
+		(effects
+			(font
+				(size 0.3 0.3)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.509999 0)
+		(size 0.54 0.64)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "38051836-7d76-473f-8829-f8364c4c8a7d")
+	)
+	(pad "2" smd roundrect
+		(at 0.509999 0)
+		(size 0.54 0.64)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "afe427a2-3a3e-40b9-99be-b3d0b6292bbd")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
