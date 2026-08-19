@@ -831,7 +831,7 @@
         "uuid": "297cf99d-9b04-43d6-b8b3-ae230a9c184d"
       }
     ],
-    "used_designators": "C2,C20-23,#PWR43,D3,R12",
+    "used_designators": "C2-38,L1,#PWR3,#PWR5-14,#PWR26,#PWR43,D3,R2-5,R12,U1-2",
     "variants": []
   },
   "sheets": [
@@ -902,6 +902,10 @@
     [
       "630a3906-3064-4c40-b1fe-9d962eb3859e",
       "Half Bridge A"
+    ],
+    [
+      "f02545ea-24a0-4ea4-9b42-ebc52b038db2",
+      "Power"
     ]
   ],
   "text_variables": {},
