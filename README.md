@@ -21,7 +21,7 @@ My take on an custom, open source yet practical drone stack.
 | PWM                | 48 kHz                                             |
 | Input              | 2S to 3S LiPo                                      |
 | Continuous current | 12.5 A target                                      |
-| Current sensing    | INA181 + shunt                                     |
+| Current sensing    | Low side shunt                                     |
 | Throttle interface | SPI                                                |
 | Telemetry          | I²C                                                |
 | Capacitor bank     | 12 × 22 µF 0805 + 4 × 100 µF 2917 tantalum polymer |
@@ -32,7 +32,7 @@ My take on an custom, open source yet practical drone stack.
 
 Built from the ground up to understand what is happening inside an ESC, rather than treating it as a black box. Stratus uses custom firmware with six-step/trapezoidal commutation, exposed control and telemetry buses, and hardware designed around actually being able to inspect, modify, and learn from the system.
 
-Protection and monitoring include current sensing, fault sensing, overcurrent protection, and undervoltage protection.
+Protection and monitoring include current sensing, fault sensing, overcurrent protection **(31.25A)**, and undervoltage protection.
 
 **Power tree:** `VBAT → 5V buck → 3.3V low-noise LDO` (The 5V rail is also powers the FC)
 
