@@ -889,7 +889,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCG4D8N04YHE3-TP"
+		(property "Value" "NVTFWS003N04XMTAG"
 			(at 148.59 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -912,7 +912,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/MCGL2D1N03YL(PDFN3333-B).pdf"
+		(property "Datasheet" "https://www.onsemi.jp/download/data-sheet/pdf/nvtfws003n04xm-d.pdf"
 			(at 148.59 307.95 0)
 			(hide yes)
 			(show_name no)
@@ -1111,7 +1111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bf8bf81-ca0b-45b3-b8ce-79482b072fae")
-		(property "Reference" "R22"
+		(property "Reference" "R17"
 			(at 121.92 113.03 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1195,51 +1195,51 @@
 		(instances
 			(project "esc"
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R22")
+					(reference "R17")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R26")
+					(reference "R21")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R24")
+					(reference "R19")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R68")
+					(reference "R55")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R66")
+					(reference "R53")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R64")
+					(reference "R51")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R89")
+					(reference "R72")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R87")
+					(reference "R70")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R85")
+					(reference "R68")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R47")
+					(reference "R38")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R45")
+					(reference "R36")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R43")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -1257,7 +1257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e8ca6c7-6524-4880-908b-d8d3832456e1")
-		(property "Reference" "R21"
+		(property "Reference" "R16"
 			(at 121.92 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1341,51 +1341,51 @@
 		(instances
 			(project "esc"
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R21")
+					(reference "R16")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R25")
+					(reference "R20")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/0070120e-1e03-4d14-907f-a744278e5b35/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R23")
+					(reference "R18")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R67")
+					(reference "R54")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R65")
+					(reference "R52")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R63")
+					(reference "R50")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R88")
+					(reference "R71")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R86")
+					(reference "R69")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/7efa9175-24bd-43e0-8b42-d74300bece59/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R84")
+					(reference "R67")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/630a3906-3064-4c40-b1fe-9d962eb3859e"
-					(reference "R46")
+					(reference "R37")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/7dce918c-6576-40aa-9b22-b13330cd5c9a"
-					(reference "R44")
+					(reference "R35")
 					(unit 1)
 				)
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d/ed8f9e9f-3338-4398-856c-63cd3b359b47/cc02f46e-3047-4d54-8b43-7b4556e32b77"
-					(reference "R42")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -1415,7 +1415,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MCG4D8N04YHE3-TP"
+		(property "Value" "NVTFWS003N04XMTAG"
 			(at 148.59 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1438,7 +1438,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.mccsemi.com/pdf/Products/MCGL2D1N03YL(PDFN3333-B).pdf"
+		(property "Datasheet" "https://www.onsemi.jp/download/data-sheet/pdf/nvtfws003n04xm-d.pdf"
 			(at 148.59 272.39 0)
 			(hide yes)
 			(show_name no)
