@@ -5738,7 +5738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DRV8300DRGER:DRV8300DRGER"
+		(property "Footprint" "Stratus:DRV8300DRGER"
 			(at 49.53 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6697,7 +6697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "STM32G071K8U6:STM32G071K8U6"
+		(property "Footprint" "Stratus:STM32G071K8U6"
 			(at 184.15 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8447,7 +8447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Stratus:INA180A1IDBVR"
 			(at 73.66 185.42 0)
 			(hide yes)
 			(show_name no)

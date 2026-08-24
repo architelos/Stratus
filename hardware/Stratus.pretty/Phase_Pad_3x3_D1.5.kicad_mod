@@ -7,7 +7,8 @@
 		(at 0 -4.2 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "f058c2dc-29e5-4fad-bc43-6cd9631ae6c2")
+		(hide yes)
+		(uuid "9802d7f9-d1f8-43fe-9b22-b26cbfb2cbae")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +20,8 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "d4b7ce4a-2ef3-4a64-ab7f-0438f9739792")
+		(hide yes)
+		(uuid "614bfba7-1d10-4a20-a87f-e2f20530bb33")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "cb5e147c-ae39-4d50-a414-cfd4c5cbfd46")
+		(uuid "a4ddd25f-ce79-4e07-b1e0-f13f790e35e4")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ff7829d3-90eb-4e04-840e-afa8da5e39de")
+		(uuid "ea182142-a60a-4b8c-afa5-9814bd1436be")
 		(effects
 			(font
 				(size 1 1)
@@ -56,14 +58,13 @@
 	(attr smd)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "fe81a434-a645-47e0-b26e-c83bf1ed397a")
+		(uuid "d88f7494-2135-444e-b304-e32d3277996e")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.6 0.6)
 			)
 		)
 	)
@@ -75,7 +76,7 @@
 		(remove_unused_layers no)
 		(roundrect_rratio 0.08333333333)
 		(solder_mask_margin 0)
-		(uuid "d886d3a5-4bbc-4c99-9be1-6d4658147c14")
+		(uuid "d72d2e18-fc90-4b84-9250-ce7dc3685ff7")
 	)
 	(embedded_fonts no)
 )

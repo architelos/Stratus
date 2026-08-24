@@ -3885,7 +3885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Stratus:TPS56339DDC"
 			(at 95.25 57.15 0)
 			(hide yes)
 			(show_name no)

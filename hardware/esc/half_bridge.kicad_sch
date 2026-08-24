@@ -900,7 +900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:MCG4D8N04YHE3-TP"
+		(property "Footprint" "Stratus:NVTFWS003N04XMTAG"
 			(at 148.59 207.95 0)
 			(hide yes)
 			(show_name no)
@@ -1426,7 +1426,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:MCG4D8N04YHE3-TP"
+		(property "Footprint" "Stratus:NVTFWS003N04XMTAG"
 			(at 148.59 172.39 0)
 			(hide yes)
 			(show_name no)

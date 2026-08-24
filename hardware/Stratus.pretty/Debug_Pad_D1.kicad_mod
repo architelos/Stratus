@@ -8,7 +8,8 @@
 	(property "Reference" "REF**"
 		(at 0 -1.448 0)
 		(layer "F.SilkS")
-		(uuid "74d8548b-3d7f-4405-80bf-ba088a8b2374")
+		(hide yes)
+		(uuid "11cc1815-fe39-4299-bf86-2d54bb3b5223")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +20,8 @@
 	(property "Value" "Debug_Pad_D1"
 		(at 0 1.55 0)
 		(layer "F.Fab")
-		(uuid "f67c45ea-e738-4755-9204-add9cdd7adbc")
+		(hide yes)
+		(uuid "b7489ff2-1ab2-4c54-a47d-0e420fae3074")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "8ba9f595-8bd3-4995-b769-6a0879a77b34")
+		(uuid "ca348155-2edb-408d-8fda-dd0fdea62ae4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a5837be1-a899-469e-b68c-8301aa5f0ca8")
+		(uuid "dbe2e029-f0ef-47f4-8bf3-f4ad1cd524e3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -64,7 +66,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "3b31f900-c325-47b6-81b2-536ac63aa8d0")
+		(uuid "524d8a5e-9f92-4dd1-a41c-04ce1dcd95dd")
 	)
 	(fp_circle
 		(center 0 0)
@@ -75,16 +77,15 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "c465bc71-0e79-491c-89b7-d7775f04219e")
+		(uuid "7613c8b9-6c23-43d4-bcfc-2f82869e29e1")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -1.45 0)
+		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "feaef07d-5411-4c55-a7ae-ca0b571cffa8")
+		(uuid "8824f1ac-8171-453f-933c-420340156787")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.6 0.6)
 			)
 		)
 	)
@@ -92,7 +93,7 @@
 		(at 0 0)
 		(size 1 1)
 		(layers "F.Cu" "F.Mask")
-		(uuid "52d2b199-af41-4f66-a5cd-5e3057673567")
+		(uuid "808bf6eb-8c1f-41a9-add3-7200f20d1772")
 	)
 	(embedded_fonts no)
 )
