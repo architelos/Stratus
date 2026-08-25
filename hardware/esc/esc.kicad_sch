@@ -2507,7 +2507,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Stratus:R_0402"
 			(at 101.6 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2959,7 +2959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Stratus:R_0402"
 			(at 129.54 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3061,7 +3061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Stratus:R_0402"
 			(at 101.6 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -3396,7 +3396,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Stratus:R_0402"
 			(at 129.54 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -3731,7 +3731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Stratus:C_0402"
 			(at 134.62 139.7 0)
 			(hide yes)
 			(show_name no)
