@@ -536,6 +536,21 @@
         "microvia_drill": 0.1,
         "name": "BOOT",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "tuning_profile": "",
+        "via_diameter": 0.4,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.16,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "PHASE",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
@@ -551,7 +566,7 @@
         "microvia_drill": 0.1,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "tuning_profile": "",
@@ -566,16 +581,24 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "BOOT",
+        "netclass": "PWR",
         "pattern": "*V_*"
       },
       {
-        "netclass": "BOOT",
+        "netclass": "PWR",
         "pattern": "GND"
       },
       {
         "netclass": "BOOT",
         "pattern": "*BST*"
+      },
+      {
+        "netclass": "PHASE",
+        "pattern": "*PHASE*"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "*SNS*"
       }
     ]
   },
@@ -768,7 +791,7 @@
         "uuid": "297cf99d-9b04-43d6-b8b3-ae230a9c184d"
       }
     ],
-    "used_designators": "C1-79,D1-4,#PWR1-78,L1,J1-15,R1-77,R90-97,U1-18,H1-4,Q1-24,TP1-16",
+    "used_designators": "C1-93,D1-4,#PWR1-78,L1,J1-15,R1-77,R90-97,U1-18,H1-4,Q1-24,TP1-16",
     "variants": []
   },
   "sheets": [
