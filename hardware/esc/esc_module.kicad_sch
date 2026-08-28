@@ -2549,6 +2549,10 @@
 		(uuid "7a681b55-7b4d-4caf-abed-12736456278a")
 	)
 	(no_connect
+		(at 184.15 66.04)
+		(uuid "878f0ec2-bc9a-405c-9fb4-277e063afc61")
+	)
+	(no_connect
 		(at 49.53 76.2)
 		(uuid "94d2c2c2-5e83-4b52-a3ec-4ef7cccd1267")
 	)
@@ -2805,16 +2809,6 @@
 			(type default)
 		)
 		(uuid "28668df5-d3db-4fd5-9564-6ccd650bcd25")
-	)
-	(wire
-		(pts
-			(xy 175.26 66.04) (xy 184.15 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b7e2b4b-9f4d-4fe9-840c-c1d34016a2a2")
 	)
 	(wire
 		(pts
@@ -4773,30 +4767,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "SNS_BAT"
-		(shape input)
-		(at 175.26 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bbcea140-b673-4b4d-9dd1-6e746961e97d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 164.2315 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
