@@ -995,7 +995,7 @@
 				)
 			)
 		)
-		(property "Value" "24R"
+		(property "Value" "27R"
 			(at 121.92 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1141,7 +1141,7 @@
 				)
 			)
 		)
-		(property "Value" "24R"
+		(property "Value" "27R"
 			(at 121.92 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
