@@ -2813,12 +2813,6 @@
 		(path "/ed8f9e9f-3338-4398-856c-63cd3b359b47/cc81b9b0-648d-4e19-ac5f-eefa74db6fd0")
 		(sheetname "/ESC Module 2/")
 		(sheetfile "esc_module.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "4" "5" "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2852,10 +2846,10 @@
 			(uuid "e05cf9be-57d8-4118-803d-42558ee7df6d")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -2943,10 +2937,10 @@
 			(uuid "964277fb-c21d-42b8-a5d6-a0e42f94192c")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -6127,12 +6121,6 @@
 		(path "/03a49181-e11c-4f7c-b77f-c7fb3a5b342f/cc81b9b0-648d-4e19-ac5f-eefa74db6fd0")
 		(sheetname "/ESC Module 3/")
 		(sheetfile "esc_module.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "4" "5" "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6166,10 +6154,10 @@
 			(uuid "e8b14a6b-ebaf-4dfb-b852-997ec30a33a2")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -6257,10 +6245,10 @@
 			(uuid "c7ab3546-b875-49a0-bd8f-02f480694a4e")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -6690,12 +6678,6 @@
 		(path "/0070120e-1e03-4d14-907f-a744278e5b35/cc81b9b0-648d-4e19-ac5f-eefa74db6fd0")
 		(sheetname "/ESC Module 1/")
 		(sheetfile "esc_module.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "4" "5" "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6729,10 +6711,10 @@
 			(uuid "490c1708-14a0-499e-9ef4-c590ad261b15")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -6820,10 +6802,10 @@
 			(uuid "ab7269ba-95fa-4e51-b834-f580f7452f6d")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -10500,12 +10482,6 @@
 		(path "/7efa9175-24bd-43e0-8b42-d74300bece59/cc81b9b0-648d-4e19-ac5f-eefa74db6fd0")
 		(sheetname "/ESC Module 4/")
 		(sheetfile "esc_module.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "4" "5" "2" "1")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10539,10 +10515,10 @@
 			(uuid "385e7f8a-e8af-481a-a993-d3a9a8e6cd78")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
@@ -10630,10 +10606,10 @@
 			(uuid "d30646a1-88f8-4bcf-a317-62897130c091")
 		)
 		(fp_circle
-			(center -2.43 -0.95)
-			(end -2.23 -0.95)
+			(center -2.38 -0.95)
+			(end -2.18 -0.95)
 			(stroke
-				(width 0.2)
+				(width 0.1)
 				(type solid)
 			)
 			(fill yes)
