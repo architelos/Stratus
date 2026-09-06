@@ -1,0 +1,92 @@
+(footprint "Input_5x5_D2.5_R"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "J2"
+		(at 0 -4.29 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "84eaf850-27ed-4bfb-8094-1172662e1b9a")
+		(effects
+			(font
+				(size 0.4 0.4)
+			)
+		)
+	)
+	(property "Value" "BAT_IN"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e0a418a-db85-4c5a-a3c9-85d7a96b96ce")
+		(effects
+			(font
+				(size 0.4 0.4)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33b28a40-31dc-485c-ace1-8db9253554d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "157e9675-cf7a-4563-af71-a2cef8f07c71")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Connector*:*_1x??_*")
+	(sheetname "/")
+	(sheetfile "esc.kicad_sch")
+	(attr smd exclude_from_bom)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c3dd341d-9e86-4a9b-92d0-00d4442e1f10")
+		(effects
+			(font
+				(size 0.4 0.4)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 5 5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1)
+		(solder_mask_margin 0)
+		(uuid "81b7fb88-3798-4f7d-8130-32d007c3c47f")
+	)
+	(pad "1" thru_hole rect
+		(at 0.96 -1.72)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0)
+		(uuid "ea670bd3-4fca-444a-964b-db15698ca687")
+	)
+	(embedded_fonts no)
+)

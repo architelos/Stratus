@@ -1,31 +1,29 @@
-(footprint "Batt_Pad_5x5_D2.5"
+(footprint "Input_5x5_D2.5_L"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(property "Reference" "J2"
 		(at 0 -4.29 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "d78eb575-acf8-4ad6-b921-0737496f11c3")
+		(uuid "a9a0b7b1-70c6-4700-9e08-b6fa1352b47f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.1)
+				(size 0.4 0.4)
 			)
 		)
 	)
-	(property "Value" "Batt_Pad_5x5_D2.5"
+	(property "Value" "BAT_IN"
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "1593b560-1bf9-4288-a4cb-f5555104f5f1")
+		(uuid "306cb668-2b11-4a63-84ab-3b8e9599c2f0")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.4 0.4)
 			)
 		)
 	)
@@ -34,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "03b44ddb-a6f0-474d-adb4-3f9dc8bdda8c")
+		(uuid "702a27a8-9fa2-442d-996d-2b2b80a3b027")
 		(effects
 			(font
 				(size 1 1)
@@ -42,12 +40,12 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ce95c6c6-69c1-400c-98a2-675e8e085651")
+		(uuid "e8ef80b6-a290-4db4-90d3-63ed5946a574")
 		(effects
 			(font
 				(size 1 1)
@@ -55,18 +53,30 @@
 			)
 		)
 	)
-	(attr smd)
+	(property ki_fp_filters "Connector*:*_1x??_*")
+	(sheetname "/")
+	(sheetfile "esc.kicad_sch")
+	(attr smd exclude_from_bom)
 	(duplicate_pad_numbers_are_jumpers no)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "10ebb1ac-0e5e-43c2-84d1-d2220aa25fd8")
+		(uuid "efdd2a93-e5b9-46b6-b99f-97461cce10a9")
 		(effects
 			(font
-				(size 0.6 0.6)
+				(size 0.4 0.4)
 			)
 		)
+	)
+	(pad "1" thru_hole rect
+		(at -0.97 -1.72)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0)
+		(uuid "dff99edb-f9b5-4d8c-9659-89ae3ed4699a")
 	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
@@ -76,7 +86,7 @@
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1)
 		(solder_mask_margin 0)
-		(uuid "e38a8db5-676e-4d1a-a246-e2ccc6f51ef6")
+		(uuid "280b064f-22bd-47b8-9416-3353cee77b58")
 	)
 	(embedded_fonts no)
 )

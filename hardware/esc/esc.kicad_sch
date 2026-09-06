@@ -1844,7 +1844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Batt_Pad_5x5_D2.5"
+		(property "Footprint" "Stratus:Input_5x5_D2.5_L"
 			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -2406,7 +2406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Batt_Pad_5x5_D2.5"
+		(property "Footprint" "Stratus:Input_5x5_D2.5_R"
 			(at 161.29 144.78 0)
 			(hide yes)
 			(show_name no)
