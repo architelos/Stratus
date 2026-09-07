@@ -781,7 +781,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NVTFWS003N04XMTAG"
+		(property "Value" "CSD17575Q3"
 			(at 148.59 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1289,7 +1289,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NVTFWS003N04XMTAG"
+		(property "Value" "CSD17575Q3"
 			(at 148.59 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
