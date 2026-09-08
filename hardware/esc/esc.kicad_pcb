@@ -50864,6 +50864,50 @@
 		)
 	)
 	(gr_circle
+		(center 151.15 76.342706)
+		(end 152.9 76.342706)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a6a05564-03ba-40dd-8700-dba343e95a98")
+	)
+	(gr_circle
+		(center 151.15 106.857671)
+		(end 152.9 106.857671)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d213cab3-8f8c-49be-be91-e6aadd6cf6b3")
+	)
+	(gr_circle
+		(center 181.700754 76.342706)
+		(end 183.450754 76.342706)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "67d90087-18a9-40cb-b076-59029d6420ab")
+	)
+	(gr_circle
+		(center 181.700754 106.847633)
+		(end 183.450754 106.847633)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a51fa9e9-e3c2-47ad-894f-eb1724dadef7")
+	)
+	(gr_circle
 		(center 151.176479 76.348652)
 		(end 152.676479 76.348652)
 		(stroke
@@ -51489,6 +51533,28 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ae3e97ef-cf2e-46fd-8aa2-ddf4a5c0b32a")
+	)
+	(gr_text "+"
+		(at 160.81 108.53 0)
+		(layer "F.SilkS")
+		(uuid "4424e35d-48dd-429a-b65c-e97a0d5c6bb1")
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "-"
+		(at 170.31 108.53 0)
+		(layer "F.SilkS")
+		(uuid "c249dfa8-270b-47b6-ada9-9eef91eb11ab")
+		(effects
+			(font
+				(size 1.25 1.25)
+			)
+			(justify left bottom)
+		)
 	)
 	(gr_text "VBAT"
 		(at 162.037956 76.95 270)
