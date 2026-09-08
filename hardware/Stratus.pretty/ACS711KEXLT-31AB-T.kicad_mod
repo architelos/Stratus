@@ -1,0 +1,317 @@
+(footprint "ACS711KEXLT-31AB-T"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Allegro Microsystems 12-Lead (10-Lead Populated) Quad Flat Pack, 3x3mm Body, 0.5mm Pitch (http://www.allegromicro.com/~/media/Files/Datasheets/ACS711-Datasheet.ashx)")
+	(tags "Allegro QFN 0.5")
+	(property "Reference" "U15"
+		(at 0 -2.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0a8b8184-bb19-493f-9ed4-80cc9ba4e91f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ACS711xEXLT-31AB"
+		(at 0 2.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72b54772-4701-4282-8358-6b3a9f573bfc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.allegromicro.com/~/Media/Files/Datasheets/ACS711-Datasheet.ashx"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "993f078d-1a73-4717-ae29-40b422fdafe4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "±31A Bidirectional, Hall-Effect Current Sensor, +3.3V supply, 45mV/A, QFN-12"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aabd9e2-6860-4a27-bfcb-a7a092d72bbf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Allegro*QFN*EP*3x3mm*P0.5mm*")
+	(sheetname "/ESC Module 1/")
+	(sheetfile "esc_module.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.54 1.25)
+		(end -1.539999 1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "822bda79-66a0-47e4-bfcd-738c0eeb40b8")
+	)
+	(fp_line
+		(start -1.539999 -1.62)
+		(end -0.25 -1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "69712b45-8c77-4d1f-b45d-38684bc0320d")
+	)
+	(fp_line
+		(start -1.539999 1.62)
+		(end -0.25 1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f912cb10-960d-4c93-97dc-e602effec676")
+	)
+	(fp_line
+		(start 1.7 1.25)
+		(end 1.700001 1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e8642c40-c3e1-41fd-8cf3-550bc4e122c2")
+	)
+	(fp_line
+		(start 1.700001 -1.62)
+		(end 1.2 -1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "068d752e-e8b3-42f1-86d3-8a0ab75e1a7a")
+	)
+	(fp_line
+		(start 1.700001 -1.62)
+		(end 1.7 -1.25)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a00352e-92eb-4ff8-955b-18ceb9a23a18")
+	)
+	(fp_line
+		(start 1.700001 1.62)
+		(end 1.2 1.62)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "378bd8a0-b81c-476c-8476-207ed97a3d4b")
+	)
+	(fp_circle
+		(center -2.11 -1.62)
+		(end -1.91 -1.62)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "b20cd8e0-1809-4127-ad6b-daf31417d4e6")
+	)
+	(fp_line
+		(start -2.11 -2.13)
+		(end -2.11 2.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ec3ba687-35ee-4fa7-9a24-0503d4d80928")
+	)
+	(fp_line
+		(start -2.11 2.13)
+		(end 2.11 2.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "10658472-7c09-476c-8c00-ecd131edebf6")
+	)
+	(fp_line
+		(start 2.11 -2.13)
+		(end -2.11 -2.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb5b021d-6612-41a4-a898-a8c516382ac2")
+	)
+	(fp_line
+		(start 2.11 2.13)
+		(end 2.11 -2.13)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f046cc44-ac06-4c3b-9d87-2cb4235b32a4")
+	)
+	(fp_line
+		(start -1.42 -0.5)
+		(end -0.42 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62ce53e6-c20f-454e-b840-92be793a52df")
+	)
+	(fp_line
+		(start -1.42 1.5)
+		(end -1.42 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2f0c8404-53ec-488c-9e9e-310e4711c03c")
+	)
+	(fp_line
+		(start -0.42 -1.5)
+		(end 1.58 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6952f7aa-ef0d-467f-917d-b2ab5de30708")
+	)
+	(fp_line
+		(start 1.58 -1.5)
+		(end 1.58 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c5786b2-0526-42a4-8fe2-42d37c390cf9")
+	)
+	(fp_line
+		(start 1.58 1.5)
+		(end -1.42 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "be937eb9-f246-4742-846a-1bbca8b155c6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "979dfecc-7fb7-4955-abe9-923814b58158")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.32 -0.499999)
+		(size 1.07 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d54e0f8a-ed5c-4c2d-84f9-a3c27f4b8cdf")
+	)
+	(pad "1" smd rect
+		(at -0.785 -0.7 45)
+		(size 0.2828 0.2828)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e0410966-2d83-49b1-947f-f51fc6bfba15")
+	)
+	(pad "1" smd rect
+		(at -0.685 -0.4)
+		(size 0.2 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a5d0ba65-cd1d-40b8-ab08-2ca84ecc90b0")
+	)
+	(pad "2" smd rect
+		(at -1.32 0.499999)
+		(size 1.07 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7982a587-4637-414f-aef4-32c1b89094ea")
+	)
+	(pad "2" smd rect
+		(at -0.785 0.7 45)
+		(size 0.2828 0.2828)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0ac9b277-e948-44bf-b2d5-8f2b9d9780fe")
+	)
+	(pad "2" smd rect
+		(at -0.685 0.4)
+		(size 0.2 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d6fdb5a4-55aa-469e-82f6-1d5de49ccecb")
+	)
+	(pad "3" smd rect
+		(at 0.23 1.45)
+		(size 0.3 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c0fbf1e5-5d64-4fa1-ae9e-156e144447cf")
+	)
+	(pad "4" smd rect
+		(at 0.73 1.45)
+		(size 0.3 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "22ebe45f-5a2f-4728-9690-e6bf7f8cc92d")
+	)
+	(pad "9" smd rect
+		(at 0.73 -1.45)
+		(size 0.3 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "81b4de27-e639-481a-b8ae-be8f2ebb55fa")
+	)
+	(pad "10" smd rect
+		(at 0.23 -1.45)
+		(size 0.3 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "422b068a-fd03-45e6-965b-717752f891ba")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../Stratus.3dshapes/ACS711KEXLT-31AB-T.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
