@@ -5,14 +5,13 @@
 	(uuid "297cf99d-9b04-43d6-b8b3-ae230a9c184d")
 	(paper "A4")
 	(title_block
-		(title "2S LiHV 4-in-1 BLDC ESC")
-		(date "2026-07-06")
-		(rev "A")
+		(title "2-4S 4-in-1 BLDC ESC")
+		(date "2026-09-10")
+		(rev "2")
 		(company "Stratus")
-		(comment 1 "Passives >= 2.2uF -> 0603")
-		(comment 2 "Passives >= 10uF -> 0805")
-		(comment 3 "Target rating: ~20A continuous per motor, ~80A total continuous")
-		(comment 4 "This board placed below FC")
+		(comment 1 "Caps on 10/5V rails: 16V+; VBAT: 30V+")
+		(comment 2 "~20A continuous per motor, ~80A total continuous")
+		(comment 3 "This board placed below FC")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
@@ -1866,7 +1865,18 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Battery input pad"
+			(at 161.29 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 161.29 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -2020,7 +2030,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "0603 Green LED"
 			(at 120.65 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2042,7 +2052,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
+		(property "LCSC#" "C3000897"
 			(at 120.65 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2053,7 +2063,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "VLMTG1500-GS08"
+		(property "MFR" "Vishay"
+			(at 120.65 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "VLMTG1400-GS08"
 			(at 120.65 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2211,7 +2232,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 128.27 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2222,7 +2243,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C106235"
 			(at 128.27 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -2233,7 +2254,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-071KL"
+		(property "MFR" "Yageo"
+			(at 128.27 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
 			(at 128.27 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -2313,7 +2345,7 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode, small symbol"
+		(property "Description" "0603 Green LED"
 			(at 120.65 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2335,7 +2367,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Vishay"
+		(property "LCSC#" "C3000897"
 			(at 120.65 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2346,7 +2378,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "VLMTG1500-GS08"
+		(property "MFR" "Vishay"
+			(at 120.65 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "VLMTG1400-GS08"
 			(at 120.65 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2428,7 +2471,18 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Battery input pad"
+			(at 161.29 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 161.29 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -2505,7 +2559,40 @@
 				)
 			)
 		)
-		(property "Description" "400W unidirectional Transient Voltage Suppressor, 20.0Vr, SMA(DO-214AC)"
+		(property "Description" "32.4VC DO-214AC"
+			(at 128.27 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C148209"
+			(at 128.27 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Littelfuse"
+			(at 128.27 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SMAJ20A"
 			(at 128.27 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -2598,6 +2685,17 @@
 				)
 			)
 		)
+		(property "LCSC#" ""
+			(at 186.69 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esc"
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d"
@@ -2661,7 +2759,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 128.27 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -2672,7 +2770,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C106235"
 			(at 128.27 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -2683,7 +2781,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-071KL"
+		(property "MFR" "Yageo"
+			(at 128.27 123.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
 			(at 128.27 123.19 90)
 			(hide yes)
 			(show_name no)
@@ -2766,6 +2875,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 199.39 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 199.39 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -3007,6 +3127,17 @@
 				)
 			)
 		)
+		(property "LCSC#" ""
+			(at 186.69 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(instances
 			(project "esc"
 				(path "/297cf99d-9b04-43d6-b8b3-ae230a9c184d"
@@ -3072,7 +3203,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Horizontal JST-SH 1x9"
 			(at 158.75 127 0)
 			(hide yes)
 			(show_name no)
@@ -3083,7 +3214,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "JST"
+		(property "LCSC#" "C160408"
 			(at 158.75 127 0)
 			(hide yes)
 			(show_name no)
@@ -3094,7 +3225,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "SM09B-SRSS-TB"
+		(property "MFR" "JST"
+			(at 158.75 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "SM09B-SRSS-TB(LF)(SN)"
 			(at 158.75 127 0)
 			(hide yes)
 			(show_name no)
@@ -3198,6 +3340,17 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 199.39 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 199.39 109.22 0)
 			(hide yes)
 			(show_name no)

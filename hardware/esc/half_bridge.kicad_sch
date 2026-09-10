@@ -804,7 +804,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.jp/download/data-sheet/pdf/nvtfws003n04xm-d.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 148.59 307.95 0)
 			(hide yes)
 			(show_name no)
@@ -816,7 +816,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "N-Channel MOSFET"
+		(property "Description" "N-Channel MOSFET 30V 60A 2.8W"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -827,8 +827,8 @@
 				)
 			)
 		)
-		(property "Height" "0.85"
-			(at 148.59 507.95 0)
+		(property "LCSC#" "C529277"
+			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -836,11 +836,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "MCC"
-			(at 148.59 607.95 0)
+		(property "MFR" "TI"
+			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -848,11 +847,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MCG4D8N04YHE3-TP"
-			(at 148.59 707.95 0)
+		(property "MPN" "CSD17575Q3"
+			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -860,55 +858,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 148.59 807.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 148.59 907.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 148.59 1007.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 148.59 1107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 			)
 		)
 		(pin "5_6_7_8"
@@ -1027,7 +976,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 121.92 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -1038,7 +987,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C138021"
 			(at 121.92 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -1049,7 +998,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710RL"
+		(property "MFR" "Yageo"
+			(at 121.92 118.11 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0727RL"
 			(at 121.92 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -1173,7 +1133,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 121.92 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1184,7 +1144,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C138021"
 			(at 121.92 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -1195,7 +1155,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710RL"
+		(property "MFR" "Yageo"
+			(at 121.92 82.55 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0727RL"
 			(at 121.92 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -1312,7 +1283,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.jp/download/data-sheet/pdf/nvtfws003n04xm-d.pdf"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
 			(at 148.59 272.39 0)
 			(hide yes)
 			(show_name no)
@@ -1324,7 +1295,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "N-Channel MOSFET"
+		(property "Description" "N-Channel MOSFET 30V 60A 2.8W"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1335,8 +1306,8 @@
 				)
 			)
 		)
-		(property "Height" "0.85"
-			(at 148.59 472.39 0)
+		(property "LCSC#" "C529277"
+			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1344,11 +1315,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "MCC"
-			(at 148.59 572.39 0)
+		(property "MFR" "TI"
+			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1356,11 +1326,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MCG4D8N04YHE3-TP"
-			(at 148.59 672.39 0)
+		(property "MPN" "CSD17575Q3"
+			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1368,55 +1337,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 148.59 772.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 148.59 872.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 148.59 972.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 148.59 1072.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 			)
 		)
 		(pin "1_2_3"

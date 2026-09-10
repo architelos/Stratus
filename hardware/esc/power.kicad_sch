@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "fb71958b-5c1e-4d01-86b9-08b3d47f740c")
 	(paper "A4")
+	(title_block
+		(title "Power Stages")
+		(date "2026-09-10")
+		(rev "1")
+		(company "Stratus")
+	)
 	(lib_symbols
 		(symbol "Device:C_Small"
 			(pin_numbers
@@ -3167,7 +3173,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 102.87 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 102.87 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 102.87 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 102.87 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3237,7 +3276,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps56339.pdf"
+		(property "Datasheet" "ti.com/lit/ds/symlink/lmr51420.pdf"
 			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3248,7 +3287,40 @@
 				)
 			)
 		)
-		(property "Description" "4.5V to 24V Input, 3-A Output Synchronous Buck Converter, SOT-23-6"
+		(property "Description" "4.5-V to 36-V, 2-A, Synchronous Buck Converter"
+			(at 82.55 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C7296200"
+			(at 82.55 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "TI"
+			(at 82.55 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LMR51420YFDDCR"
 			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3342,7 +3414,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 143.51 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 143.51 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 143.51 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 143.51 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3391,7 +3496,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 64.77 59.6962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3424,7 +3529,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0603 4.7uF 35V"
 			(at 67.31 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -3435,7 +3540,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C307467"
 			(at 67.31 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -3446,7 +3551,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Samsung"
+			(at 67.31 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 67.31 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -3495,7 +3611,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 132.08 62.2362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3528,7 +3644,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 129.54 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3539,7 +3655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C22385335"
 			(at 129.54 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3550,7 +3666,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Taiyo Yuden"
+			(at 129.54 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 129.54 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3710,7 +3837,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 173.99 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3721,7 +3848,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 173.99 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3732,7 +3859,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 173.99 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 173.99 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3892,7 +4030,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 163.83 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3903,7 +4041,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 163.83 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -3914,7 +4052,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 163.83 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 163.83 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4073,7 +4222,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 133.35 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 133.35 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 133.35 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 133.35 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4121,7 +4303,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 251.46 57.1435 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4154,7 +4336,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 248.92 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4165,7 +4347,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Murata"
+		(property "LCSC#" "C22385335"
 			(at 248.92 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4176,7 +4358,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " GRM188R61E475KE11D"
+		(property "MFR" "Taiyo Yuden"
+			(at 248.92 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 248.92 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4257,7 +4450,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4268,7 +4461,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C343047"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4279,7 +4472,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL05A104KA5NNNC"
+		(property "MFR" "TDK"
+			(at 95.25 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
 			(at 95.25 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -4361,7 +4565,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 18k"
 			(at 228.6 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4372,7 +4576,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C138044"
 			(at 228.6 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4383,7 +4587,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0731K6L"
+		(property "MFR" "Yageo"
+			(at 228.6 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0718KL"
 			(at 228.6 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4465,7 +4680,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 123.19 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 123.19 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 123.19 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 123.19 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4547,7 +4795,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 123.19 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 123.19 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 123.19 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 123.19 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4706,7 +4987,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 153.67 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 153.67 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 153.67 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 153.67 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4788,7 +5102,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 163.83 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 163.83 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 163.83 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 163.83 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4870,7 +5217,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 143.51 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 143.51 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 143.51 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 143.51 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5186,7 +5566,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 194.31 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5197,7 +5577,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 194.31 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5208,7 +5588,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 194.31 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 194.31 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5290,7 +5681,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 184.15 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5301,7 +5692,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 184.15 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5312,7 +5703,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 184.15 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 184.15 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5394,7 +5796,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 173.99 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5405,7 +5807,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 173.99 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5416,7 +5818,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 173.99 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 173.99 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5654,7 +6067,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 228.6 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5665,7 +6078,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 228.6 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5676,7 +6089,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 228.6 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 228.6 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5758,7 +6182,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 113.03 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5769,7 +6193,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 113.03 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5780,7 +6204,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 113.03 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 113.03 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5862,7 +6297,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 113.03 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 113.03 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 113.03 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 113.03 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -5909,7 +6377,7 @@
 				)
 			)
 		)
-		(property "Value" "LDLPUR212"
+		(property "Value" "LDL212PUR"
 			(at 204.47 40.894 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5931,7 +6399,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "NCP59800BMNADJTAG"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2969849.pdf"
 			(at 227.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5943,7 +6411,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1.18V~17.3V Positive Adjustable DFN-6(3x3)"
 			(at 227.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5954,7 +6422,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "onsemi"
+		(property "LCSC#" "C2969849"
 			(at 227.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5965,7 +6433,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "NCP59800BMNADJTAG"
+		(property "MFR" "ST"
+			(at 227.33 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LDL212PUR"
 			(at 227.33 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6062,7 +6541,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 184.15 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6073,7 +6552,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 184.15 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6084,7 +6563,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 184.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 184.15 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6133,7 +6623,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 143.51 62.2362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6166,7 +6656,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 140.97 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6177,7 +6667,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C22385335"
 			(at 140.97 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6188,7 +6678,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Taiyo Yuden"
+			(at 140.97 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 140.97 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6237,7 +6738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "158k"
+		(property "Value" "160k"
 			(at 110.49 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6270,7 +6771,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 160k"
 			(at 113.03 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6281,7 +6782,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C273334"
 			(at 113.03 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6292,7 +6793,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 113.03 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-07160KL"
 			(at 113.03 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6374,7 +6886,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 170.18 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6385,7 +6897,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C3835721"
 			(at 170.18 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6396,7 +6908,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "Murata"
+			(at 170.18 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
 			(at 170.18 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6444,7 +6967,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 240.03 57.1435 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6477,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 237.49 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6488,7 +7011,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Murata"
+		(property "LCSC#" "C22385335"
 			(at 237.49 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6499,7 +7022,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" " GRM188R61E475KE11D"
+		(property "MFR" "Taiyo Yuden"
+			(at 237.49 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 237.49 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6581,7 +7115,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 102.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 102.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 102.87 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 102.87 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6818,7 +7385,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 133.35 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 133.35 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 133.35 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 133.35 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6977,7 +7577,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 180.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6988,7 +7588,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C343047"
 			(at 180.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6999,7 +7599,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "TDK"
+			(at 180.34 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
 			(at 180.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7079,7 +7690,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "1210 4.7uH 2.5A Isat"
 			(at 107.95 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -7090,7 +7701,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Taiyo Yuden"
+		(property "LCSC#" "C3224690"
 			(at 107.95 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -7101,7 +7712,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "MDWK4040T4R7MM"
+		(property "MFR" "TDK"
+			(at 107.95 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BCL322520RT-4R7M-D"
 			(at 107.95 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -7183,7 +7805,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 194.31 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7194,7 +7816,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 194.31 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7205,7 +7827,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 194.31 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 194.31 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -7443,7 +8076,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 113.03 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 113.03 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 113.03 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 113.03 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7492,7 +8158,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 53.34 59.6962 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7525,7 +8191,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0603 4.7uF 35V"
 			(at 55.88 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7536,7 +8202,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C307467"
 			(at 55.88 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7547,7 +8213,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Samsung"
+			(at 55.88 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL10A475KL8NRNC"
 			(at 55.88 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7629,7 +8306,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
 			(at 153.67 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7640,7 +8317,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C162422"
 			(at 153.67 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7651,7 +8328,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Murata"
+			(at 153.67 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 153.67 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7778,7 +8466,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "4.7uF"
 			(at 120.65 62.2362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7811,7 +8499,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 118.11 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -7822,7 +8510,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C22385335"
 			(at 118.11 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -7833,7 +8521,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL21A226MAYNNWE"
+		(property "MFR" "Taiyo Yuden"
+			(at 118.11 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 118.11 60.96 0)
 			(hide yes)
 			(show_name no)

@@ -4991,7 +4991,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 143.51 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -5002,7 +5002,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 143.51 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -5013,7 +5013,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 143.51 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 143.51 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -5107,7 +5118,18 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "1x1mm pad for flashing"
+			(at 171.45 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 171.45 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -5198,7 +5220,18 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Motor output pad"
+			(at 227.33 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 227.33 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -5378,7 +5411,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 243.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5389,7 +5422,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C343047"
 			(at 243.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5400,7 +5433,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL05A104KA5NNNC"
+		(property "MFR" "TDK"
+			(at 243.84 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
 			(at 243.84 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5495,7 +5539,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5506,7 +5550,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5517,7 +5561,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 118.11 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5612,7 +5667,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5623,7 +5678,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5634,7 +5689,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 138.43 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5728,7 +5794,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 247.65 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -5739,7 +5805,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C22385335"
 			(at 247.65 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -5750,7 +5816,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL05A104KA5NNNC"
+		(property "MFR" "Taiyo Yuden"
+			(at 247.65 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 247.65 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -5931,7 +6008,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 113.03 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -5942,7 +6019,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 113.03 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -5953,7 +6030,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 113.03 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 113.03 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -6136,7 +6224,40 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.lcsc.com/datasheet/C3655801.pdf"
+			(at 49.53 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C3655801"
+			(at 49.53 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "TI"
+			(at 49.53 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "DRV8300DRGER"
 			(at 49.53 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6297,7 +6418,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 113.03 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6308,7 +6429,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 113.03 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -6319,7 +6440,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 113.03 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 113.03 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -6503,7 +6635,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 252.73 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 252.73 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 252.73 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 252.73 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -6597,7 +6762,18 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "1x1mm pad for flashing"
+			(at 196.878 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 196.878 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6688,7 +6864,18 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "1x1mm pad for flashing"
+			(at 196.878 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 196.878 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -6779,7 +6966,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 129.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6790,7 +6977,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C343047"
 			(at 129.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6801,7 +6988,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "TDK"
+			(at 129.54 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
 			(at 129.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6983,7 +7181,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 95.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -6994,7 +7192,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C3835721"
 			(at 95.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7005,7 +7203,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "Murata"
+			(at 95.25 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
 			(at 95.25 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -7189,7 +7398,40 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.lcsc.com/datasheet/C724237.pdf"
+			(at 184.15 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C724237"
+			(at 184.15 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "ST"
+			(at 184.15 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "STM32G071K8U6"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7460,7 +7702,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 143.51 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7471,7 +7713,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 143.51 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -7482,7 +7724,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 143.51 158.75 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 143.51 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -7576,7 +7829,18 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Motor output pad"
+			(at 227.33 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 227.33 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -7754,7 +8018,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 113.03 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -7765,7 +8029,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 113.03 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -7776,7 +8040,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 113.03 167.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 113.03 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -7871,7 +8146,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -7882,7 +8157,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -7893,7 +8168,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 128.27 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -7986,7 +8272,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 95.25 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7997,7 +8283,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C3835721"
 			(at 95.25 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8008,7 +8294,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "Murata"
+			(at 95.25 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
 			(at 95.25 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8102,7 +8399,18 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Motor output pad"
+			(at 227.33 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 227.33 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -8283,7 +8591,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "1206 10uF 35V"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8294,7 +8602,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C16195875"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8305,7 +8613,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL05A104KA5NNNC"
+		(property "MFR" "Samsung"
+			(at 140.97 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL31B106KLHNNNE"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8399,7 +8718,18 @@
 				)
 			)
 		)
-		(property "Description" "test point"
+		(property "Description" "1x1mm pad for flashing"
+			(at 171.45 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" ""
 			(at 171.45 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8772,6 +9102,39 @@
 				)
 			)
 		)
+		(property "LCSC#" "C146412"
+			(at 69.85 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Allegro"
+			(at 69.85 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ACS711KEXLT-31AB-T"
+			(at 69.85 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "5c2c350b-b8f2-4e60-ac7c-583e780b05bd")
 		)
@@ -8877,8 +9240,41 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 64.77 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 64.77 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 64.77 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 64.77 152.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9060,7 +9456,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 262.89 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 262.89 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 262.89 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 262.89 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9153,7 +9582,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 95.25 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9164,7 +9593,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "TDK"
+		(property "LCSC#" "C3835721"
 			(at 95.25 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9175,7 +9604,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "C1005X5R1E105K050BC"
+		(property "MFR" "Murata"
+			(at 95.25 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
 			(at 95.25 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -9269,7 +9709,40 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0805 10uF 35V"
+			(at 273.05 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C162422"
+			(at 273.05 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 273.05 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "GRM21BR6YA106KE43L"
 			(at 273.05 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9361,7 +9834,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 56k"
 			(at 143.51 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -9372,7 +9845,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C114756"
 			(at 143.51 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -9383,7 +9856,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0756KL"
+		(property "MFR" "Yageo"
+			(at 143.51 149.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0756KL"
 			(at 143.51 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -9566,7 +10050,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 243.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9577,7 +10061,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Yageo"
+		(property "LCSC#" "C60490"
 			(at 243.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9588,7 +10072,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "RC0402FR-0710KL"
+		(property "MFR" "Yageo"
+			(at 243.84 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-0710KL"
 			(at 243.84 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -9682,7 +10177,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 236.22 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9693,7 +10188,7 @@
 				)
 			)
 		)
-		(property "Manufacturer_Name" "Samsung"
+		(property "LCSC#" "C343047"
 			(at 236.22 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9704,7 +10199,18 @@
 				)
 			)
 		)
-		(property "Manufacturer_Part_Number" "CL05A104KA5NNNC"
+		(property "MFR" "TDK"
+			(at 236.22 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
 			(at 236.22 34.29 0)
 			(hide yes)
 			(show_name no)
