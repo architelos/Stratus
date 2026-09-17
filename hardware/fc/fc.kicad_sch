@@ -4,9 +4,228 @@
 	(generator_version "10.0")
 	(uuid "6eb6d89e-9d71-4347-9ba3-a394c00e5720")
 	(paper "A4")
+	(title_block
+		(title "RP2354B; BMP580; ICM-42688-P Flight Controller")
+		(date "2026-09-17")
+		(rev "1")
+	)
 	(lib_symbols)
 	(sheet
-		(at 106.68 104.14)
+		(at 189.23 74.93)
+		(size 33.02 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "73a6eee5-6d12-455e-b4d9-634e7c0ab882")
+		(property "Sheetname" "Peripherals"
+			(at 189.23 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "peripherals.kicad_sch"
+			(at 189.23 100.9146 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ELRS_RX" input
+			(at 222.25 86.36 0)
+			(uuid "b51c8973-f3d3-4f10-9f35-2a612280ffdd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ESC{M[1..4] TEL}" bidirectional
+			(at 189.23 77.47 180)
+			(uuid "9c9d4acd-be77-45e9-8ab5-c4eec6db9c33")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SD{DAT[0..3] CMD CLK}" bidirectional
+			(at 189.23 97.79 180)
+			(uuid "a5801bf8-a492-4775-816d-abcf7370c795")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VIDEO" input
+			(at 222.25 92.71 0)
+			(uuid "89941c0c-7cf2-4d81-8d46-d12d2d1ec9b1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CC" output
+			(at 222.25 90.17 0)
+			(uuid "c415ed71-75ce-417f-9bff-c299d566a692")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D+" output
+			(at 222.25 77.47 0)
+			(uuid "b07ebcb4-b53b-4b13-88b8-4c8cccb797b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "D-" output
+			(at 222.25 80.01 0)
+			(uuid "0cd8c977-24de-45e0-af58-009c8008d792")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "ELRS_TX" output
+			(at 222.25 83.82 0)
+			(uuid "b415469b-0d03-4bb9-b91c-e886ffb327d3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VTX_IN" output
+			(at 222.25 95.25 0)
+			(uuid "ade7925d-508a-4d65-a4de-0f4c5d08386d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VTX_SA" output
+			(at 222.25 97.79 0)
+			(uuid "eba3e062-c149-4991-8e35-5409a3d17a24")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 104.14)
+		(size 33.02 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a6d2d69b-2d48-4e76-8813-96121fd6287c")
+		(property "Sheetname" "Sensors"
+			(at 189.23 103.4284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 189.23 130.1246 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BAR{MOSI MISO SCLK nCS INT}" bidirectional
+			(at 189.23 106.68 180)
+			(uuid "7135bf28-dc50-4447-9011-4b1f62f4d6d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IMU{MOSI MISO SCLK nCS INT}" bidirectional
+			(at 189.23 127 180)
+			(uuid "55c1d165-ab02-4af5-8577-7900e4366571")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 226.06 104.14)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +241,7 @@
 		)
 		(uuid "e2294782-fc96-4933-bb6d-aced2c760448")
 		(property "Sheetname" "Power"
-			(at 106.68 103.4284 0)
+			(at 226.06 103.4284 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +252,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 106.68 130.1246 0)
+			(at 226.06 130.1246 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

@@ -8,7 +8,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -396,7 +396,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 0,
+      "hop_over_size_choice": 2,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -429,7 +429,7 @@
         "uuid": "6eb6d89e-9d71-4347-9ba3-a394c00e5720"
       }
     ],
-    "used_designators": "U2,U13-14,C1-10,C39,C42,C65-68,L1,#PWR1-12,#PWR63,#PWR65-66,#PWR75-78,R1-4,R74-77",
+    "used_designators": "U2,U4-9,U13-14,C1-10,C17-34,C39,C42,C65-68,L1-2,#PWR1-38,#PWR63-68,#PWR75-82,J1-8,R1-4,R7-14,R74-77",
     "variants": []
   },
   "sheets": [
@@ -440,6 +440,14 @@
     [
       "e2294782-fc96-4933-bb6d-aced2c760448",
       "Power"
+    ],
+    [
+      "73a6eee5-6d12-455e-b4d9-634e7c0ab882",
+      "Peripherals"
+    ],
+    [
+      "a6d2d69b-2d48-4e76-8813-96121fd6287c",
+      "Sensors"
     ]
   ],
   "text_variables": {},
