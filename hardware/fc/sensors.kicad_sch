@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "bf2c3600-d0da-4ad1-a96c-2759228b3e29")
+	(uuid "39a1bcd9-dc2d-427a-a735-e6f6df3ea41d")
 	(paper "A4")
 	(title_block
 		(title "IMU; Barometer")
