@@ -2387,9 +2387,9 @@
 		)
 		(uuid "fc86aaa8-5474-401e-b9ec-4beca580ef12")
 	)
-	(text "To RP2354B; barometer"
+	(text "To RP2354B\n"
 		(exclude_from_sim no)
-		(at 132.842 95.758 0)
+		(at 138.43 95.758 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2437,9 +2437,9 @@
 		)
 		(uuid "900d3fe3-20b3-45fe-8006-9bd5a812589e")
 	)
-	(text "LDO: 3V3 -> 1V8"
+	(text "LDO: 5V -> 3V3"
 		(exclude_from_sim no)
-		(at 169.164 96.774 0)
+		(at 167.894 96.774 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -3847,30 +3847,6 @@
 		)
 		(uuid "5020822b-d92e-4662-beb9-9bad9e6377bf")
 	)
-	(global_label "V_3V3"
-		(shape input)
-		(at 161.29 113.03 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0c27a1c5-1a68-4d8f-82e9-67b46d57d255")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.741 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "V_BUS"
 		(shape input)
 		(at 191.77 62.23 180)
@@ -3945,6 +3921,30 @@
 	)
 	(global_label "V_5V"
 		(shape input)
+		(at 161.29 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5ebbba6d-9780-4fe6-82a1-147521316c57")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 153.9505 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "V_5V"
+		(shape input)
 		(at 222.25 62.23 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3991,7 +3991,7 @@
 			)
 		)
 	)
-	(global_label "V_1V8"
+	(global_label "V_IMU"
 		(shape input)
 		(at 242.57 115.57 0)
 		(fields_autoplaced yes)
@@ -4003,7 +4003,7 @@
 		)
 		(uuid "c950cfef-aada-4b64-a17d-5a310f3ba888")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 251.119 115.57 0)
+			(at 250.9981 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8410,7 +8410,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "12.7k"
+		(property "Value" "31.6k"
 			(at 209.55 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
