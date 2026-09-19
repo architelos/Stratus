@@ -3733,12 +3733,6 @@
 		(uuid "8c55aa75-5cb0-4c3d-b9ad-48ece79916da")
 	)
 	(junction
-		(at 170.18 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9f0bbd5f-50e6-4406-881f-d965a74931dc")
-	)
-	(junction
 		(at 210.82 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3767,8 +3761,16 @@
 		(uuid "3076ce7d-5b2c-4576-959b-653cd29dc289")
 	)
 	(no_connect
+		(at 185.42 44.45)
+		(uuid "30aaa657-19e5-4d21-8718-1c49aa3048e6")
+	)
+	(no_connect
 		(at 156.21 156.21)
 		(uuid "5645b24f-f7f0-437d-99de-0bce332cec8a")
+	)
+	(no_connect
+		(at 156.21 73.66)
+		(uuid "8ff43383-81a9-44b2-8879-efb2e5921263")
 	)
 	(no_connect
 		(at 58.42 78.74)
@@ -4285,16 +4287,6 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 44.45) (xy 170.18 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e4ad703-2b1a-4972-80bb-81253e0ff301")
-	)
-	(wire
-		(pts
 			(xy 139.7 82.55) (xy 129.54 82.55)
 		)
 		(stroke
@@ -4725,16 +4717,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 73.66) (xy 179.07 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8116d39-5a51-48db-878d-aeeefb38b827")
-	)
-	(wire
-		(pts
 			(xy 110.49 73.66) (xy 113.03 73.66)
 		)
 		(stroke
@@ -4782,16 +4764,6 @@
 			(type default)
 		)
 		(uuid "e54bc882-8bab-4595-87b7-ac587cdb09f9")
-	)
-	(wire
-		(pts
-			(xy 176.53 44.45) (xy 185.42 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e54cc2c2-fe25-45c9-ab1c-04158bdcf50b")
 	)
 	(wire
 		(pts
@@ -5003,16 +4975,6 @@
 		)
 		(uuid "57ad80e2-b47d-4ddf-8b82-c108ea3d02fc")
 	)
-	(label "SD_DET"
-		(at 176.53 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "623055e3-99e1-463b-895d-f8f1eedfe91e")
-	)
 	(label "SD_DAT0"
 		(at 185.42 116.84 180)
 		(effects
@@ -5062,16 +5024,6 @@
 			(justify right bottom)
 		)
 		(uuid "8015950a-97ec-4b6c-90ce-46a3172ec556")
-	)
-	(label "SD_DET"
-		(at 179.07 73.66 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "9c8b238f-dbc0-49ba-b5fa-ddc0a329a40a")
 	)
 	(label "ESC_M2"
 		(at 130.81 120.65 180)
@@ -5389,30 +5341,6 @@
 			)
 		)
 	)
-	(global_label "V_3V3"
-		(shape input)
-		(at 170.18 44.45 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "deab767a-7c4d-475e-b1c0-0a8507549181")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.18 35.901 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "V_5V"
 		(shape input)
 		(at 156.21 130.81 0)
@@ -5581,7 +5509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 129.54 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -5661,7 +5589,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal"
 			(at 120.65 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -5901,7 +5829,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 151.13 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6199,7 +6127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MICROQFN16_1P25X3P55X0P4_STM"
+		(property "Footprint" "EMIF06-MSD02N16:EMIF06-MSD02N16"
 			(at 185.42 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6326,7 +6254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4110"
 			(at 46.99 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6451,7 +6379,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 63.5 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -6610,7 +6538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:microSD_HC_Molex_104031-0811"
 			(at 81.28 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6714,7 +6642,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 63.5 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -6796,7 +6724,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM05B-SRSS-TB_1x05-1MP_P1.00mm_Horizontal"
 			(at 151.13 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7196,7 +7124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM02B-SRSS-TB_1x02-1MP_P1.00mm_Horizontal"
 			(at 120.65 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -7608,7 +7536,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 139.7 87.63 0)
 			(hide yes)
 			(show_name no)

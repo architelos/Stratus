@@ -4165,7 +4165,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 240.03 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4246,7 +4246,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 60.96 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -4518,7 +4518,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 163.83 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -5065,7 +5065,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 217.17 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5147,7 +5147,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 120.65 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5405,7 +5405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 99.06 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5726,7 +5726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-583-8"
+		(property "Footprint" "Stratus:C_0402"
 			(at 224.79 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -5808,7 +5808,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 109.22 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6395,7 +6395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 99.06 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6744,7 +6744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Stratus:LDLPUR212"
+		(property "Footprint" "Package_SON:VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm"
 			(at 130.81 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7425,7 +7425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 228.6 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7507,7 +7507,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 207.01 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -7587,7 +7587,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-583-8"
+		(property "Footprint" "Stratus:C_0402"
 			(at 189.23 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7784,7 +7784,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 55.88 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7866,7 +7866,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 132.08 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -7947,7 +7947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-583-8"
+		(property "Footprint" "Stratus:C_0402"
 			(at 189.23 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -8028,7 +8028,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:C_0402"
 			(at 168.91 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8421,7 +8421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Stratus:R_0402"
 			(at 207.01 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -8500,7 +8500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Stratus:LDLPUR212"
+		(property "Footprint" "Package_SON:VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm"
 			(at 238.76 114.3 0)
 			(hide yes)
 			(show_name no)
