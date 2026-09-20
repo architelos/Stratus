@@ -7807,7 +7807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 237.49 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8280,7 +8280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8434,7 +8434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 271.78 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +8986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 260.35 25.4 0)
 			(hide yes)
 			(show_name no)
