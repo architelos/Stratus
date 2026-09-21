@@ -3020,6 +3020,10 @@
 		(uuid "01cf96be-ce04-4cb0-b399-42c488c3e210")
 	)
 	(no_connect
+		(at 128.27 109.22)
+		(uuid "0604a6d6-b494-4fec-b9c5-d05aec849a1c")
+	)
+	(no_connect
 		(at 128.27 104.14)
 		(uuid "3391c689-b268-4374-bf41-a135f4f4b27d")
 	)
@@ -3038,10 +3042,6 @@
 	(no_connect
 		(at 77.47 134.62)
 		(uuid "6e3479af-796d-4154-9bc4-ebe0c7d3ef6a")
-	)
-	(no_connect
-		(at 128.27 121.92)
-		(uuid "77308c72-a934-47ae-94cd-a920e8b69723")
 	)
 	(no_connect
 		(at 128.27 160.02)
@@ -3856,16 +3856,6 @@
 			(type default)
 		)
 		(uuid "6af572d0-9e41-48a5-a1e7-a36d3a39a239")
-	)
-	(wire
-		(pts
-			(xy 128.27 109.22) (xy 138.43 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c77a0bf-03d4-4704-b707-c85cc060896f")
 	)
 	(wire
 		(pts
@@ -4747,6 +4737,16 @@
 		)
 		(uuid "fb9f97e3-64e3-462c-87f2-4b6a210f555d")
 	)
+	(wire
+		(pts
+			(xy 128.27 121.92) (xy 138.43 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd1f1dde-0880-4dc4-b9f9-0411491ac507")
+	)
 	(label "SD.DAT0"
 		(at 176.53 106.68 0)
 		(effects
@@ -4797,7 +4797,7 @@
 		)
 		(uuid "0afc47d3-22f1-47d5-9c4b-76288b18c4a5")
 	)
-	(label "OSD_EN"
+	(label "OSD_W"
 		(at 138.43 124.46 180)
 		(effects
 			(font
@@ -4957,7 +4957,7 @@
 		)
 		(uuid "486ae7f0-c415-4267-99cc-499b23ccf64c")
 	)
-	(label "OSD_W"
+	(label "OSD_EN"
 		(at 138.43 129.54 180)
 		(effects
 			(font
@@ -5198,14 +5198,14 @@
 		(uuid "caa7d115-d7db-4430-b3a9-65ba2a32d05f")
 	)
 	(label "IMU.INT"
-		(at 138.43 109.22 180)
+		(at 138.43 121.92 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "d0504725-1619-416f-9d8c-2d1ead3e3d25")
+		(uuid "db1fb29e-5433-4303-a60e-746fd1773518")
 	)
 	(label "IMU.MOSI"
 		(at 176.53 135.89 0)
