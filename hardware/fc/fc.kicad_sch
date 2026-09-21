@@ -3040,6 +3040,10 @@
 		(uuid "6e3479af-796d-4154-9bc4-ebe0c7d3ef6a")
 	)
 	(no_connect
+		(at 128.27 121.92)
+		(uuid "77308c72-a934-47ae-94cd-a920e8b69723")
+	)
+	(no_connect
 		(at 128.27 160.02)
 		(uuid "92b99ec2-6336-4680-8e16-35a21f2b74d2")
 	)
@@ -3062,10 +3066,6 @@
 	(no_connect
 		(at 128.27 132.08)
 		(uuid "e4f2be89-a66f-4c57-b666-0d3b3b2e035f")
-	)
-	(no_connect
-		(at 128.27 109.22)
-		(uuid "f7970eb3-3061-4dbb-a797-715288f5928a")
 	)
 	(no_connect
 		(at 128.27 106.68)
@@ -3859,6 +3859,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 109.22) (xy 138.43 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c77a0bf-03d4-4704-b707-c85cc060896f")
+	)
+	(wire
+		(pts
 			(xy 186.69 102.87) (xy 176.53 102.87)
 		)
 		(stroke
@@ -4069,16 +4079,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 121.92) (xy 138.43 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ef76976-c478-4963-b596-a69eea85084c")
-	)
-	(wire
-		(pts
 			(xy 83.82 21.59) (xy 93.98 21.59)
 		)
 		(stroke
@@ -4106,6 +4106,16 @@
 			(type default)
 		)
 		(uuid "941210b8-dc05-4571-88be-405c2738fd75")
+	)
+	(wire
+		(pts
+			(xy 128.27 111.76) (xy 138.43 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95069fbb-8a59-4d63-99fb-f151e3f91607")
 	)
 	(wire
 		(pts
@@ -4256,16 +4266,6 @@
 			(type default)
 		)
 		(uuid "ad550e4f-e516-4414-9c64-e908bfd9a1b0")
-	)
-	(wire
-		(pts
-			(xy 128.27 111.76) (xy 138.43 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af4238c8-b0f6-477d-96cc-5f9cb99df9bc")
 	)
 	(wire
 		(pts
@@ -5108,14 +5108,14 @@
 		(uuid "a12ae113-d854-40b7-9336-6805cfae6395")
 	)
 	(label "IMU.nCS"
-		(at 138.43 121.92 180)
+		(at 138.43 111.76 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "a46d344d-0efd-4100-8226-d52ac9e2fe9b")
+		(uuid "af127125-a4da-47d3-9d9d-9898e2833e90")
 	)
 	(label "D+"
 		(at 59.69 114.3 0)
@@ -5198,7 +5198,7 @@
 		(uuid "caa7d115-d7db-4430-b3a9-65ba2a32d05f")
 	)
 	(label "IMU.INT"
-		(at 138.43 111.76 180)
+		(at 138.43 109.22 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7807,7 +7807,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Mount_M3_K0.5"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 237.49 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8280,7 +8280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Mount_M3_K0.5"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8434,7 +8434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Mount_M3_K0.5"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 271.78 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8986,7 +8986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Stratus:Mount_M3_K0.5"
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
 			(at 260.35 25.4 0)
 			(hide yes)
 			(show_name no)
