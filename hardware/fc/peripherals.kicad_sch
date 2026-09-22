@@ -4875,7 +4875,7 @@
 		)
 		(uuid "fe5334e4-d949-46fc-880b-c418f6486937")
 	)
-	(label "SD_DAT3"
+	(label "SD.DAT3"
 		(at 245.11 53.34 180)
 		(effects
 			(font
@@ -4885,7 +4885,7 @@
 		)
 		(uuid "0ec634ea-514c-4758-bca9-2db36a75dc6b")
 	)
-	(label "ESC_TEL"
+	(label "ESC.TEL"
 		(at 130.81 128.27 180)
 		(effects
 			(font
@@ -4895,7 +4895,7 @@
 		)
 		(uuid "0f67c5ff-4a9c-4810-97d7-a0df23070ec8")
 	)
-	(label "SD_CMD"
+	(label "SD.CMD"
 		(at 245.11 55.88 180)
 		(effects
 			(font
@@ -4905,7 +4905,7 @@
 		)
 		(uuid "17b532ef-4c5c-4d3c-afa0-aa7e7cd27d38")
 	)
-	(label "ESC_M1"
+	(label "ESC.M1"
 		(at 185.42 129.54 180)
 		(effects
 			(font
@@ -4915,7 +4915,7 @@
 		)
 		(uuid "4664d98a-0dfe-4c38-8473-f9f58a7c6bab")
 	)
-	(label "ESC_M4"
+	(label "ESC.M4"
 		(at 185.42 121.92 180)
 		(effects
 			(font
@@ -4925,7 +4925,7 @@
 		)
 		(uuid "536a4772-a1dd-4ee4-9e05-054c1c465133")
 	)
-	(label "ESC_M4"
+	(label "ESC.M4"
 		(at 130.81 115.57 180)
 		(effects
 			(font
@@ -4935,7 +4935,7 @@
 		)
 		(uuid "57ad80e2-b47d-4ddf-8b82-c108ea3d02fc")
 	)
-	(label "SD_DAT0"
+	(label "SD.DAT0"
 		(at 185.42 116.84 180)
 		(effects
 			(font
@@ -4945,7 +4945,7 @@
 		)
 		(uuid "688dfc0d-c335-4c51-a2ef-a87efc1a18b0")
 	)
-	(label "ESC_M3"
+	(label "ESC.M3"
 		(at 130.81 118.11 180)
 		(effects
 			(font
@@ -4955,7 +4955,7 @@
 		)
 		(uuid "7183f00e-9a23-4fca-8662-1e4ad6c498b2")
 	)
-	(label "SD_DAT0"
+	(label "SD.DAT0"
 		(at 245.11 60.96 180)
 		(effects
 			(font
@@ -4965,7 +4965,7 @@
 		)
 		(uuid "7edbb1be-9bb1-4190-b570-1daa72f3217a")
 	)
-	(label "ESC_M1"
+	(label "ESC.M1"
 		(at 130.81 123.19 180)
 		(effects
 			(font
@@ -4975,7 +4975,7 @@
 		)
 		(uuid "7f8ac415-c833-4c04-83b6-e44a85c9ddf9")
 	)
-	(label "SD_CLK"
+	(label "SD.CLK"
 		(at 185.42 114.3 180)
 		(effects
 			(font
@@ -4985,7 +4985,7 @@
 		)
 		(uuid "8015950a-97ec-4b6c-90ce-46a3172ec556")
 	)
-	(label "ESC_M2"
+	(label "ESC.M2"
 		(at 130.81 120.65 180)
 		(effects
 			(font
@@ -4995,7 +4995,7 @@
 		)
 		(uuid "a3573b32-10c7-478b-a6d8-51522fd66308")
 	)
-	(label "ESC_TEL"
+	(label "ESC.TEL"
 		(at 185.42 132.08 180)
 		(effects
 			(font
@@ -5005,7 +5005,7 @@
 		)
 		(uuid "b023ca06-71bd-4f85-af6b-d9fdde68c673")
 	)
-	(label "ESC_M3"
+	(label "ESC.M3"
 		(at 185.42 124.46 180)
 		(effects
 			(font
@@ -5015,7 +5015,7 @@
 		)
 		(uuid "b4a7cce5-54ac-4c2f-a487-9c15a6e97af4")
 	)
-	(label "SD_DAT3"
+	(label "SD.DAT3"
 		(at 185.42 109.22 180)
 		(effects
 			(font
@@ -5025,7 +5025,7 @@
 		)
 		(uuid "e9d743fc-87a0-47ac-89cb-149a74ad24a7")
 	)
-	(label "SD_CMD"
+	(label "SD.CMD"
 		(at 185.42 111.76 180)
 		(effects
 			(font
@@ -5035,7 +5035,7 @@
 		)
 		(uuid "f3a8f49c-8804-4a23-9a37-2d16f9ace367")
 	)
-	(label "ESC_M2"
+	(label "ESC.M2"
 		(at 185.42 127 180)
 		(effects
 			(font
@@ -5045,7 +5045,7 @@
 		)
 		(uuid "f502431c-ec46-4ef6-a921-d2eee90f044d")
 	)
-	(label "SD_CLK"
+	(label "SD.CLK"
 		(at 245.11 58.42 180)
 		(effects
 			(font

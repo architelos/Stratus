@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.0,
+          "min_clearance": 0.1,
           "min_island_area": 10.0,
-          "min_thickness": 0.025,
+          "min_thickness": 0.1,
           "pad_connection": 2,
           "remove_islands": 1,
           "thermal_relief_gap": 0.5,
@@ -211,8 +211,10 @@
       ],
       "track_widths": [
         0.0,
+        0.1384,
         0.15,
-        0.25
+        0.25,
+        0.4
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -535,9 +537,24 @@
         "microvia_drill": 0.1,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
+        "tuning_profile": "",
+        "via_diameter": 0.4,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.1,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.1384,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "USB",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1384,
         "tuning_profile": "",
         "via_diameter": 0.4,
         "via_drill": 0.3
@@ -552,6 +569,14 @@
       {
         "netclass": "PWR",
         "pattern": "V*"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "*D-*"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "*D+*"
       }
     ]
   },
