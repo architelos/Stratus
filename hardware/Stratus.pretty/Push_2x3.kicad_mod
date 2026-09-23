@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "39b33b27-cb68-45c6-9119-dd63d3843071")
+		(uuid "20a3e4ad-652f-47c1-93cc-727634c27555")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "159bc211-ff78-424a-a7f8-d04c23b20d6d")
+		(uuid "891eb114-9ee3-4eb7-af48-f4575db11ec5")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "a4554cd6-7ee4-4087-b3ca-fae6cd8f2fa3")
+		(uuid "1a666a1f-c9d0-485c-bf34-8e00d63a9dd6")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "40774037-d027-437a-aa3b-05390a12fc03")
+		(uuid "11fd5a7c-21e2-4530-b1f9-678f520099df")
 		(effects
 			(font
 				(size 1 1)
@@ -65,7 +65,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "1422f944-c40b-4002-b67f-e2d6483f0c1e")
+		(uuid "f863ef52-3dd3-4baf-874a-1c0a4f497c5c")
 	)
 	(fp_line
 		(start -0.91 0.65)
@@ -75,7 +75,19 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "fc340ab8-105e-4c66-982b-ea4b83ce479b")
+		(uuid "f00f4016-ec66-41b9-a6ce-9fc103e97897")
+	)
+	(fp_rect
+		(start 1.1 -0.65)
+		(end 2 0.65)
+		(radius 0.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "a426641f-67cd-4746-a6dc-4a75353228f4")
 	)
 	(fp_rect
 		(start -2.3 -0.95)
@@ -86,13 +98,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "c0d1e5ad-d99e-467a-bf00-de50d63f2b21")
+		(uuid "057040aa-cfb2-43a7-aa0e-c6ee362bcfd0")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "e47d5790-e9d9-4a48-a643-f6833b7af14b")
+		(uuid "44911356-70b1-4233-94fc-a52a323192a4")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -104,14 +116,14 @@
 		(size 1.4 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "ad4b0cad-7bbc-464c-80e9-ffa1e2dc1e02")
+		(uuid "ed27141a-6cbe-4ae4-b460-44ccdbb2e24c")
 	)
 	(pad "2" connect roundrect
 		(at 1.55 0 90)
 		(size 1.4 1)
 		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
-		(uuid "c470b467-997e-4adc-86fc-8e298c8ed17d")
+		(uuid "fb54764e-8bf2-42d4-bdea-0e6698ebcc67")
 	)
 	(embedded_fonts no)
 )
