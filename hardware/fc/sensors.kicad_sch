@@ -1485,7 +1485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_LGA:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y"
+		(property "Footprint" "Stratus:LSM6DSK320X"
 			(at 127 114.3 0)
 			(hide yes)
 			(show_name no)

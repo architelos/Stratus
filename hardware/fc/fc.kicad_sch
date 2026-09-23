@@ -5687,7 +5687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm"
+		(property "Footprint" "Stratus:RP2354A"
 			(at 102.87 127 0)
 			(hide yes)
 			(show_name no)
@@ -6622,7 +6622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Crystal_AKL:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+		(property "Footprint" "Stratus:Crystal_4P_3.2x2.5mm"
 			(at 60.96 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -8320,7 +8320,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 237.49 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8793,7 +8793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 248.92 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -8947,7 +8947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 271.78 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -9499,7 +9499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+		(property "Footprint" "Stratus:Mount_M3_K0.5"
 			(at 260.35 25.4 0)
 			(hide yes)
 			(show_name no)

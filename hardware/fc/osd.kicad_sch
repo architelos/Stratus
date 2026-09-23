@@ -3346,7 +3346,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
+		(property "Footprint" "Stratus:TS5A3159ADCK"
 			(at 142.875 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -3599,7 +3599,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5"
+		(property "Footprint" "Stratus:TLV7031DCKR"
 			(at 190.5 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -3692,7 +3692,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6"
+		(property "Footprint" "Stratus:TS5A3159ADCK"
 			(at 132.715 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -4654,7 +4654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SOD-882"
+		(property "Footprint" "Stratus:D_0402"
 			(at 157.48 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -5136,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "Stratus:OPA354AIDBVR"
 			(at 177.8 88.9 0)
 			(hide yes)
 			(show_name no)
