@@ -3327,6 +3327,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 149.86) (xy 156.21 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "119b6ef6-15d8-4b79-8266-5ab24cf20a5d")
+	)
+	(wire
+		(pts
 			(xy 267.97 100.33) (xy 278.13 100.33)
 		)
 		(stroke
@@ -3597,16 +3607,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 147.32) (xy 138.43 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f234277-3bc9-4107-afb3-376a514056f4")
-	)
-	(wire
-		(pts
 			(xy 203.2 58.42) (xy 203.2 60.96)
 		)
 		(stroke
@@ -3624,6 +3624,16 @@
 			(type default)
 		)
 		(uuid "3f77fb46-1558-4f74-b4b4-a9433fd09d6d")
+	)
+	(wire
+		(pts
+			(xy 143.51 144.78) (xy 156.21 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41d5e865-e831-4c4f-83bc-6ea4e2dbba24")
 	)
 	(wire
 		(pts
@@ -3897,6 +3907,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 149.86) (xy 143.51 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b26b472-4d67-4689-95a7-e92455ce8297")
+	)
+	(wire
+		(pts
 			(xy 186.69 102.87) (xy 176.53 102.87)
 		)
 		(stroke
@@ -4047,6 +4067,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 152.4) (xy 156.21 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ed2386c-6529-4449-a9f1-d43328173150")
+	)
+	(wire
+		(pts
 			(xy 93.98 21.59) (xy 96.52 21.59)
 		)
 		(stroke
@@ -4114,6 +4144,16 @@
 			(type default)
 		)
 		(uuid "8d6efd0a-c41d-4e32-928d-4234854f7d87")
+	)
+	(wire
+		(pts
+			(xy 128.27 147.32) (xy 143.51 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fabc2ee-69b1-49a4-bf9f-fa121316f5fd")
 	)
 	(wire
 		(pts
@@ -4267,16 +4307,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 149.86) (xy 138.43 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8c93ff3-06bc-476f-9972-319143050b78")
-	)
-	(wire
-		(pts
 			(xy 60.96 121.92) (xy 77.47 121.92)
 		)
 		(stroke
@@ -4424,6 +4454,16 @@
 			(type default)
 		)
 		(uuid "bd9615e9-5662-46a6-9dcf-431059e7a59f")
+	)
+	(wire
+		(pts
+			(xy 128.27 152.4) (xy 138.43 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf2dd6d7-9dc8-4817-8d74-212b68c49fda")
 	)
 	(wire
 		(pts
@@ -4657,16 +4697,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 152.4) (xy 138.43 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec49b4a7-6882-4d1a-b79b-87af997e4ee5")
-	)
-	(wire
-		(pts
 			(xy 74.93 68.58) (xy 74.93 71.12)
 		)
 		(stroke
@@ -4704,6 +4734,16 @@
 			(type default)
 		)
 		(uuid "f2a37833-c3c0-4cf1-b45b-2c1b3f96f345")
+	)
+	(wire
+		(pts
+			(xy 148.59 147.32) (xy 156.21 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3ba40eb-4ccf-4841-baf2-7d0f3f321d51")
 	)
 	(wire
 		(pts
@@ -4885,26 +4925,6 @@
 		)
 		(uuid "1388d76e-7f78-4244-9b09-32b0bab0c795")
 	)
-	(label "ESC.M4"
-		(at 138.43 152.4 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1437a2b6-afe3-44cd-a62e-654df067d74d")
-	)
-	(label "ESC.M3"
-		(at 138.43 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "16fe5dd4-6bb1-4328-9064-692fd67a8b1f")
-	)
 	(label "OSD_SYNC"
 		(at 278.13 100.33 180)
 		(effects
@@ -4914,6 +4934,16 @@
 			(justify right bottom)
 		)
 		(uuid "1ce4237c-4397-4c01-8147-a9416765d537")
+	)
+	(label "ESC.M2"
+		(at 156.21 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2f67b879-dd68-42cc-a42c-b92e55e8bd25")
 	)
 	(label "IMU.MISO"
 		(at 176.53 138.43 0)
@@ -4974,16 +5004,6 @@
 			(justify right bottom)
 		)
 		(uuid "3e13b3be-8dea-4f9e-bfe2-2d4017548387")
-	)
-	(label "ESC.M1"
-		(at 138.43 144.78 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "41a05674-6524-48d8-9832-1f49f6adb88e")
 	)
 	(label "IMU.MISO"
 		(at 138.43 119.38 180)
@@ -5116,6 +5136,16 @@
 		(uuid "6bd2fb06-5eb5-4edb-9d0a-55b07d218a66")
 	)
 	(label "ESC.M3"
+		(at 156.21 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7f40503b-b115-4a8d-a5c1-cc8a0bef26a6")
+	)
+	(label "ESC.M3"
 		(at 176.53 97.79 0)
 		(effects
 			(font
@@ -5155,16 +5185,6 @@
 		)
 		(uuid "9d867d22-1879-471f-b705-f20409f8ffae")
 	)
-	(label "ESC.M2"
-		(at 138.43 147.32 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a01df51b-c260-48a8-b8f7-b3acb7f14ee4")
-	)
 	(label "IMU.nCS"
 		(at 138.43 111.76 180)
 		(effects
@@ -5174,6 +5194,16 @@
 			(justify right bottom)
 		)
 		(uuid "af127125-a4da-47d3-9d9d-9898e2833e90")
+	)
+	(label "ESC.M4"
+		(at 156.21 152.4 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b663c843-3306-4784-ae29-02785d5e83b0")
 	)
 	(label "D+"
 		(at 59.69 114.3 0)
@@ -5204,6 +5234,16 @@
 			(justify left bottom)
 		)
 		(uuid "c117dfc6-87f4-4969-810b-16b073206095")
+	)
+	(label "ESC.M1"
+		(at 156.21 144.78 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c43e1075-1eec-46a7-9378-2e283ec10100")
 	)
 	(label "SWDCLK"
 		(at 250.19 39.37 180)
@@ -6387,6 +6427,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 146.05 147.32 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "38d48cde-412e-451f-8359-c282028aa6c3")
+		(property "Reference" "R23"
+			(at 146.05 142.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27R"
+			(at 146.05 144.78 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 146.05 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 146.05 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c6a482d7-5667-4629-8dc2-0951afbd3f84")
+		)
+		(pin "2"
+			(uuid "1d78fa1a-5de2-4d44-8e5c-e488b41a5478")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "C_Small_1")
 		(lib_id "Device:C_Small")
 		(at 73.66 26.67 0)
@@ -7035,6 +7155,167 @@
 			(project "fc"
 				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
 					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 140.97 144.78 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63854531-78f0-4c80-9fc6-60922000a46b")
+		(property "Reference" "R22"
+			(at 140.97 139.7 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27R"
+			(at 140.97 142.24 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 140.97 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 140.97 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "aa3d72c9-22b9-4219-bea2-0ae2a553e1ef")
+		)
+		(pin "2"
+			(uuid "f25701cb-3dca-4222-8caa-5ee9be9cc5b4")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 146.05 149.86 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63e47afd-94ad-40d5-af01-1ea8e59496d9")
+		(property "Reference" "R25"
+			(at 146.05 154.94 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27R"
+			(at 146.05 152.4 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 146.05 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 146.05 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "cf7a4508-ccc3-405e-bce1-74ec1fb050d0")
+		)
+		(pin "2"
+			(uuid "a5ddff3f-5b0a-4594-8cd9-8ca4d67aa734")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -7761,6 +8042,87 @@
 			(project "fc"
 				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
 					(reference "C46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 140.97 152.4 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "911825f0-7d52-4e84-b308-1a587475b5b4")
+		(property "Reference" "R24"
+			(at 140.97 157.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "27R"
+			(at 140.97 154.94 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 140.97 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 140.97 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 140.97 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1c85c63b-4072-4a6e-bd5c-23687d80d75f")
+		)
+		(pin "2"
+			(uuid "b570aa8b-63cc-4572-83c6-3e8af1b41011")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R24")
 					(unit 1)
 				)
 			)
