@@ -577,6 +577,10 @@
       {
         "netclass": "USB",
         "pattern": "*D+*"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "GND"
       }
     ]
   },
@@ -721,7 +725,7 @@
         "uuid": "6eb6d89e-9d71-4347-9ba3-a394c00e5720"
       }
     ],
-    "used_designators": "U2,U4-14,C1-10,C17-46,C65-68,D1,L1-2,#PWR1-43,#PWR51-57,#PWR63-68,#PWR75-82,#PWR147,J1-8,R1-4,R7-16,R21-25,R74-77",
+    "used_designators": "U2,U4-14,C1-10,C17-46,C65-68,D1,L1-2,#PWR1-43,#PWR51-57,#PWR63-68,#PWR75-82,#PWR147,J1-8,R1-4,R7-16,R21,R74-77",
     "variants": []
   },
   "sheets": [
