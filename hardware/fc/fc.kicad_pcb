@@ -21438,12 +21438,6 @@
 		(path "/276edf30-9f9a-4117-88d0-d19da50b207c/c56a6b76-3356-4447-a6a3-b44a9f1761fc")
 		(sheetname "/OSD/")
 		(sheetfile "osd.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21475,6 +21469,28 @@
 			)
 			(layer "B.SilkS")
 			(uuid "c2d9f472-3aed-4b6c-95e7-fee573b28921")
+		)
+		(fp_rect
+			(start 0.2 0.3)
+			(end 0.5 -0.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Paste")
+			(uuid "958a832c-9861-4204-8319-964a564e8f13")
+		)
+		(fp_rect
+			(start -0.5 0.3)
+			(end -0.2 -0.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill yes)
+			(layer "B.Paste")
+			(uuid "efa87f93-7bd0-4f30-acb5-e5dd7fc3a296")
 		)
 		(fp_line
 			(start 0.8 0.6)
@@ -21626,22 +21642,6 @@
 				)
 				(justify mirror)
 			)
-		)
-		(pad "" smd roundrect
-			(at -0.35 0 180)
-			(size 0.3 0.6)
-			(layers "B.Paste")
-			(roundrect_rratio 0.1666666667)
-			(solder_paste_margin -0.05)
-			(uuid "34673e4a-898d-44b9-9e07-8506e9fa3ba9")
-		)
-		(pad "" smd roundrect
-			(at 0.35 0 180)
-			(size 0.3 0.6)
-			(layers "B.Paste")
-			(roundrect_rratio 0.1666666667)
-			(solder_paste_margin -0.05)
-			(uuid "1efc131b-c941-438d-9948-05a610b62cf4")
 		)
 		(pad "1" smd roundrect
 			(at -0.35 0 180)
