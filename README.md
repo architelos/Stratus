@@ -10,7 +10,7 @@ My take on an custom, open source yet practical drone stack.
 </p>
 
 **Current revision:** 2\
-**Status:** Fabricating
+**Status:** Testing
 
 ### Specs
 
@@ -20,7 +20,7 @@ My take on an custom, open source yet practical drone stack.
 | Gate driver        | DRV8300DRGER                                       |
 | PWM                | 48 kHz                                             |
 | Input              | 2S to 4S LiPo                                      |
-| Continuous current | 20 A continuous, 25A peaks                         |
+| Continuous current | 25 A continuous, 30 A peaks                        |
 | Current sensing    | High side hall effect sensor                       |
 | Throttle interface | DShot / ... (standard protocols)                   |
 | Telemetry          | Serial UART                                        |
@@ -30,16 +30,35 @@ My take on an custom, open source yet practical drone stack.
 
 ### Description
 
-Built from the ground up to understand what is happening inside an ESC, rather than treating it as a black box. Stratus uses industry standard AM32 with custom firmware planned, and hardware designed around actually being able to inspect, modify, and learn from the system.
+Built from the ground up to understand what is happening inside an ESC, rather than treating it as a black box. Jett uses industry standard AM32, and has hardware designed around being able to inspect, modify, and learn from the system.
 
-**Power tree:** `VBAT → 10V buck → 3.3V low-noise LDO` (The MOSFETs are driven by the 10V rail)
+**Power tree:** `VBAT → 10V buck (driving FETs) → 3.3V low-noise LDO`
 
-## FC
+## Kite (FC)
 
-**Current revision:** TBD\
-**Status:** Planned
+<p align="center">
+  <img src="images/kite_front.jpg" width="48%">
+  <img src="images/kite_back.jpg" width="48%">
+</p>
 
-The flight controller will complete the Stratus stack, with the same focus on practical hardware and understanding the underlying system.
+**Current revision:** 1\
+**Status:** Waiting
+
+### Specs
+
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| MCU                | RP2354A                                            |
+| IMU                | LSM6DSK320X                                        |
+| Input              | 2S to 4S LiPo                                      |
+| BECs               | 5V → VTX + Camera ; 3V3 → MCU + IMU                |
+| Connectivity       | USB-C / JST-SH                                     |
+| Storage            | MicroSD                                            |
+| Firmware           | Betaflight                                         |
+| PCB                | 38 × 38 mm, 30.5 × 30.5 mm mounting                |
+| Copper             | 1 oz outer, 0.5 oz inner                           |
+
+The flight controller completes the Stratus stack, with the same focus on practical hardware and understanding the underlying system.
 
 ## License
 
