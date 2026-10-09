@@ -3181,7 +3181,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_SH_SM09B-SRSS-TB_1x09-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "Stratus:JST_SH_1x9_ESC"
 			(at 158.75 127 0)
 			(hide yes)
 			(show_name no)

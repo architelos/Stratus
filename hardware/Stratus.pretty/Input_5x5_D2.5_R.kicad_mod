@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "84eaf850-27ed-4bfb-8094-1172662e1b9a")
+		(uuid "805a596f-5a4a-4d37-84d9-d391adff8b7a")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0e0a418a-db85-4c5a-a3c9-85d7a96b96ce")
+		(uuid "66b4a7d4-6ac2-4c7b-a06d-68837ea2cd6e")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "33b28a40-31dc-485c-ace1-8db9253554d2")
+		(uuid "0abb6321-d918-4c04-96e5-3bfc34c7ea0b")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "157e9675-cf7a-4563-af71-a2cef8f07c71")
+		(uuid "1b267b1b-051a-4a73-b9ea-92e79b07f19b")
 		(effects
 			(font
 				(size 1 1)
@@ -62,7 +62,7 @@
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "c3dd341d-9e86-4a9b-92d0-00d4442e1f10")
+		(uuid "bab68329-eab2-4ec1-a2b2-495a47e97a9c")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -72,21 +72,20 @@
 	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 5 5)
-		(drill 2.5)
+		(drill 0.3)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(roundrect_rratio 0.1)
 		(solder_mask_margin 0)
-		(uuid "81b7fb88-3798-4f7d-8130-32d007c3c47f")
+		(uuid "b08bdfa0-cdbc-4d8d-bef4-52e9025d39d1")
 	)
-	(pad "1" thru_hole rect
-		(at 0.96 -1.72)
-		(size 1 1)
-		(drill 1)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
+	(pad "1" smd roundrect
+		(at 0 0)
+		(size 5 5)
+		(layers "B.Cu" "B.Mask")
+		(roundrect_rratio 0.1)
 		(solder_mask_margin 0)
-		(uuid "ea670bd3-4fca-444a-964b-db15698ca687")
+		(uuid "f61b6334-6689-4fd7-9554-c998ee393b40")
 	)
 	(embedded_fonts no)
 )
