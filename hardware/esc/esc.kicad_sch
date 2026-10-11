@@ -2232,7 +2232,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 1k"
+		(property "Description" "0402 10k"
 			(at 128.27 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -2243,7 +2243,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C106235"
+		(property "LCSC#" "C60490"
 			(at 128.27 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -2265,7 +2265,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-071KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 128.27 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -2627,7 +2627,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b72bdd0-b4d8-47cb-811c-23a34d3c8249")
 		(property "Reference" "H1"
@@ -2827,7 +2827,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95951246-c2e4-40de-9012-b222bd747eef")
 		(property "Reference" "H4"
@@ -3069,7 +3069,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2e4557a-609e-486a-9fcb-98bd5161c70e")
 		(property "Reference" "H3"
@@ -3292,7 +3292,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf91dc55-b868-477a-8a99-80e9dd75a12f")
 		(property "Reference" "H2"

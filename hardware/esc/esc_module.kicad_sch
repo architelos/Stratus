@@ -1888,8 +1888,8 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 8.89 6.35 0)
+			(property "Reference" "U15"
+				(at 2.1433 12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1900,7 +1900,7 @@
 				)
 			)
 			(property "Value" "ACS711xEXLT-31AB"
-				(at 8.89 3.81 0)
+				(at 2.1433 10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1910,7 +1910,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "Sensor_Current:Allegro_QFN-12-10-1EP_3x3mm_P0.5mm"
+			(property "Footprint" "Stratus:ACS711KEXLT-31AB-T"
 				(at 8.89 -1.27 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1935,6 +1935,39 @@
 				)
 			)
 			(property "Description" "±31A Bidirectional, Hall-Effect Current Sensor, +3.3V supply, 45mV/A, QFN-12"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC#" "C146412"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MFR" "Allegro"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "ACS711KEXLT-31AB-T"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2046,78 +2079,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 90)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -10.16 90)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 -10.16 90)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -10.16 90)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2599,10 +2560,6 @@
 		(uuid "2b1400d7-7780-4181-893e-67a6465ae9bc")
 	)
 	(no_connect
-		(at 74.93 175.26)
-		(uuid "2e1b43fb-6a27-45a7-adee-72b03dadb198")
-	)
-	(no_connect
 		(at 234.95 83.82)
 		(uuid "3e01b1ec-de45-4111-89d0-8a944565a186")
 	)
@@ -2619,20 +2576,12 @@
 		(uuid "7a681b55-7b4d-4caf-abed-12736456278a")
 	)
 	(no_connect
-		(at 67.31 175.26)
-		(uuid "83ce51f4-17e1-44ba-a971-4086c5d8b707")
-	)
-	(no_connect
 		(at 184.15 66.04)
 		(uuid "878f0ec2-bc9a-405c-9fb4-277e063afc61")
 	)
 	(no_connect
 		(at 49.53 76.2)
 		(uuid "94d2c2c2-5e83-4b52-a3ec-4ef7cccd1267")
-	)
-	(no_connect
-		(at 72.39 175.26)
-		(uuid "99d8ff93-da9f-4f9c-bbc6-5a01dd74db51")
 	)
 	(no_connect
 		(at 234.95 81.28)
@@ -2661,10 +2610,6 @@
 	(no_connect
 		(at 49.53 78.74)
 		(uuid "e3c789b5-e02d-4a9d-9efc-99ae56d1575f")
-	)
-	(no_connect
-		(at 64.77 175.26)
-		(uuid "f733d41b-a476-460c-8b48-c62f52ef2059")
 	)
 	(wire
 		(pts
@@ -4959,7 +4904,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 143.51 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4991,7 +4936,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 143.51 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -5002,7 +4947,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 143.51 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -5024,7 +4969,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 143.51 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -5170,7 +5115,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -5506,7 +5451,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 115.57 173.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5539,7 +5484,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 10k"
+		(property "Description" "0402 1k"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5550,7 +5495,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" "C106235"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5572,7 +5517,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 118.11 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5634,7 +5579,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 135.89 173.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5667,7 +5612,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 10k"
+		(property "Description" "0402 1k"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5678,7 +5623,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" "C106235"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5700,7 +5645,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 138.43 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -5976,7 +5921,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 113.03 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6008,7 +5953,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 113.03 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -6019,7 +5964,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 113.03 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -6041,7 +5986,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 113.03 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -6386,7 +6331,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 113.03 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6418,7 +6363,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 113.03 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -6429,7 +6374,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 113.03 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -6451,7 +6396,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 113.03 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -7364,7 +7309,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32G071K8U6"
+		(property "Value" "STM32G071K(8/B)U6"
 			(at 220.218 41.402 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7386,7 +7331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g071c8.pdf"
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g071k8.pdf"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7409,7 +7354,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C724237"
+		(property "LCSC#" "C529350"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7431,7 +7376,7 @@
 				)
 			)
 		)
-		(property "MPN" "STM32G071K8U6"
+		(property "MPN" "STM32G071KBU6"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7670,7 +7615,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 143.51 156.21 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7702,7 +7647,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 143.51 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7713,7 +7658,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 143.51 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -7735,7 +7680,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 143.51 158.75 90)
 			(hide yes)
 			(show_name no)
@@ -7779,7 +7724,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7986,7 +7931,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 113.03 165.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8018,7 +7963,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 113.03 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -8029,7 +7974,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 113.03 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -8051,7 +7996,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 113.03 167.64 90)
 			(hide yes)
 			(show_name no)
@@ -8113,7 +8058,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 125.73 173.9899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8146,7 +8091,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 10k"
+		(property "Description" "0402 1k"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -8157,7 +8102,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" "C106235"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -8179,7 +8124,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 128.27 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -8349,7 +8294,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8602,7 +8547,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C16195875"
+		(property "LCSC#" "C2175512"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8613,7 +8558,7 @@
 				)
 			)
 		)
-		(property "MFR" "Samsung"
+		(property "MFR" "Murata"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8624,7 +8569,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL31B106KLHNNNE"
+		(property "MPN" "GRT31CR6YA106KE01L"
 			(at 140.97 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8668,7 +8613,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -9147,23 +9092,11 @@
 		(pin "4"
 			(uuid "0c9aa92e-bf76-40de-ba4b-bd6a673b992a")
 		)
-		(pin "6"
-			(uuid "1ed900dd-37ff-4f58-81c4-f2acf6a75103")
-		)
-		(pin "7"
-			(uuid "dcaff61c-52e4-4e38-9a0d-1364a2195f1d")
-		)
 		(pin "1"
 			(uuid "fcc3046e-1c6e-4bda-b032-c5ea2aa705b7")
 		)
 		(pin "3"
 			(uuid "6aec4512-5012-4803-82ea-ee27b8df3b26")
-		)
-		(pin "8"
-			(uuid "a7e81727-df49-4d94-9d25-a85a984cd3eb")
-		)
-		(pin "5"
-			(uuid "4807e85e-2719-4414-a780-46314323d053")
 		)
 		(instances
 			(project "esc"
@@ -9802,7 +9735,7 @@
 				)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "10k"
 			(at 143.51 147.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9834,7 +9767,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 56k"
+		(property "Description" "0402 10k"
 			(at 143.51 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -9845,7 +9778,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C114756"
+		(property "LCSC#" "C60490"
 			(at 143.51 149.86 90)
 			(hide yes)
 			(show_name no)
@@ -9867,7 +9800,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0756KL"
+		(property "MPN" "RC0402FR-0710KL"
 			(at 143.51 149.86 90)
 			(hide yes)
 			(show_name no)

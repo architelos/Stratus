@@ -6782,7 +6782,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C273334"
+		(property "LCSC#" "C226798"
 			(at 113.03 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6804,7 +6804,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-07160KL"
+		(property "MPN" "AC0402FR-07160KL"
 			(at 113.03 59.69 0)
 			(hide yes)
 			(show_name no)
