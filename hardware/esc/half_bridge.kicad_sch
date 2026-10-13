@@ -781,7 +781,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3"
+		(property "Value" "AGM4025AP"
 			(at 148.59 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -804,7 +804,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C42411651.pdf"
 			(at 148.59 307.95 0)
 			(hide yes)
 			(show_name no)
@@ -816,7 +816,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "N-Channel MOSFET 30V 60A 2.8W"
+		(property "Description" "N-Channel MOSFET 40V"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -827,7 +827,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C529277"
+		(property "LCSC#" "C42411651"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -838,7 +838,7 @@
 				)
 			)
 		)
-		(property "MFR" "TI"
+		(property "MFR" "AGMSEMI"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -849,7 +849,7 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3"
+		(property "MPN" "AGM4025AP"
 			(at 127 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -1260,7 +1260,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CSD17575Q3"
+		(property "Value" "AGM4025AP"
 			(at 148.59 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1283,7 +1283,7 @@
 				(justify left top)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/csd17575q3.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C42411651.pdf"
 			(at 148.59 272.39 0)
 			(hide yes)
 			(show_name no)
@@ -1295,7 +1295,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "N-Channel MOSFET 30V 60A 2.8W"
+		(property "Description" "N-Channel MOSFET 30V"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1306,7 +1306,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C529277"
+		(property "LCSC#" "C42411651"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1317,7 +1317,7 @@
 				)
 			)
 		)
-		(property "MFR" "TI"
+		(property "MFR" "AGMSEMI"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -1328,7 +1328,7 @@
 				)
 			)
 		)
-		(property "MPN" "CSD17575Q3"
+		(property "MPN" "AGM4025AP"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
