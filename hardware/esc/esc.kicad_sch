@@ -5,12 +5,12 @@
 	(uuid "297cf99d-9b04-43d6-b8b3-ae230a9c184d")
 	(paper "A4")
 	(title_block
-		(title "2-4S 4-in-1 BLDC ESC")
-		(date "2026-09-10")
-		(rev "2")
+		(title "2-5S 4-in-1 BLDC ESC")
+		(date "2026-10-13")
+		(rev "3")
 		(company "Stratus")
 		(comment 1 "Caps on 10/5V rails: 16V+; VBAT: 30V+")
-		(comment 2 "~20A continuous per motor, ~80A total continuous")
+		(comment 2 "~25A continuous per motor, ~100A total continuous")
 		(comment 3 "This board placed below FC")
 	)
 	(lib_symbols

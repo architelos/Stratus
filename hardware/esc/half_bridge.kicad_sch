@@ -1295,7 +1295,7 @@
 				(justify left top)
 			)
 		)
-		(property "Description" "N-Channel MOSFET 30V"
+		(property "Description" "N-Channel MOSFET 40V"
 			(at 127 77.47 0)
 			(hide yes)
 			(show_name no)
