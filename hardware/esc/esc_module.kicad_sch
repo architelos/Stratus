@@ -7353,7 +7353,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C529350"
+		(property "LCSC#" "C724239"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7375,7 +7375,7 @@
 				)
 			)
 		)
-		(property "MPN" "STM32G071KBU6"
+		(property "MPN" "STM32G071KBU3"
 			(at 184.15 48.26 0)
 			(hide yes)
 			(show_name no)

@@ -944,7 +944,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "15R"
 			(at 121.92 115.57 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -987,7 +987,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C138066"
+		(property "LCSC#" "C138052"
 			(at 121.92 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -1009,7 +1009,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0710RL"
+		(property "MPN" "RC0402FR-0715RL"
 			(at 121.92 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -1101,7 +1101,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "15R"
 			(at 121.92 80.01 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1133,7 +1133,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 10R"
+		(property "Description" "0402 15R"
 			(at 121.92 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -1144,7 +1144,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C138066"
+		(property "LCSC#" "C138052"
 			(at 121.92 82.55 90)
 			(hide yes)
 			(show_name no)
@@ -1166,7 +1166,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-0710RL"
+		(property "MPN" "RC0402FR-0715RL"
 			(at 121.92 82.55 90)
 			(hide yes)
 			(show_name no)
