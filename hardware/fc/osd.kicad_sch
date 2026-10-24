@@ -3490,7 +3490,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1.2k"
+		(property "Value" "1k"
 			(at 161.29 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4170,7 +4170,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1M"
 			(at 138.43 143.5099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4566,7 +4566,7 @@
 				)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "0.1uF"
 			(at 130.81 133.35 90)
 			(show_name no)
 			(do_not_autoplace no)
