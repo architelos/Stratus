@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "ea7962b7-70fc-4267-ad38-13df6f411aab")
+		(uuid "75338e3d-977e-4d4c-a315-453351f2beb0")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "93d7b049-d055-415d-87a4-7127505143b9")
+		(uuid "b9a48cbb-83b4-4b9a-b866-8abc7076ca5f")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "e0305bfd-77ed-4e89-be71-62934ed86296")
+		(uuid "d9c3812c-c685-4094-a634-430e7770a498")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "cb48ad53-8e6c-44c3-845e-8bae7caa0407")
+		(uuid "82069946-9a04-47b7-939c-33e462a7d85e")
 		(effects
 			(font
 				(size 1 1)
@@ -65,7 +65,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "f4a9c58b-15ed-4a78-9567-a7c29cdd1472")
+		(uuid "d973abe3-507f-4753-932c-6fccac58e16d")
 	)
 	(fp_line
 		(start -0.91 0.65)
@@ -75,7 +75,7 @@
 			(type default)
 		)
 		(layer "F.SilkS")
-		(uuid "b43d3f40-de5d-404b-a40b-412a10462d10")
+		(uuid "71a05779-3057-49c5-99ac-6d61f7b92e97")
 	)
 	(fp_rect
 		(start -2.3 -0.95)
@@ -86,13 +86,13 @@
 		)
 		(fill no)
 		(layer "F.CrtYd")
-		(uuid "5ff677e3-c3ea-4d18-bcb5-dcf4a54d3cdd")
+		(uuid "96f715f3-244c-43ad-9f4e-a6c98d985cff")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "aa5b96a8-917d-484c-b7cc-1af69bbf18cd")
+		(uuid "d2dbe0f9-a951-4d22-b96f-cbaf5f26e2fb")
 		(effects
 			(font
 				(size 0.4 0.4)
@@ -104,14 +104,14 @@
 		(size 1.4 1)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "92d7c2fb-76f7-4b71-a869-2b2c75ae19c0")
+		(uuid "c7e05891-902d-4bcb-ae26-023d41a1baf1")
 	)
-	(pad "2" connect roundrect
+	(pad "2" smd roundrect
 		(at 1.55 0 90)
 		(size 1.4 1)
-		(layers "F.Cu" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
-		(uuid "4b3acc65-ba25-4c6e-98aa-ac31691279e9")
+		(uuid "3e9f313d-31e3-469a-bb99-cb23a22776f8")
 	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/../Stratus.3dshapes/Push_3x2.step"

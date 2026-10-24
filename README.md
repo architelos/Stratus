@@ -9,8 +9,8 @@ My take on an custom, open source yet practical drone stack.
   <img src="images/jett_back.jpg" width="48%">
 </p>
 
-**Current revision:** 2\
-**Status:** Testing
+**Current revision:** 3\
+**Status:** Waiting on fab
 
 ### Specs
 
@@ -18,13 +18,13 @@ My take on an custom, open source yet practical drone stack.
 | ------------------ | -------------------------------------------------- |
 | MCU                | STM32G071K(B/8)U(3/6)                              |
 | Gate driver        | DRV8300DRGER                                       |
-| PWM                | 48 kHz                                             |
-| Input              | 2S to 4S LiPo                                      |
+| Input              | 3S to 5S LiPo                                      |
 | Continuous current | 25 A continuous, 30 A peaks                        |
-| Current sensing    | High side hall effect sensor                       |
-| Throttle interface | DShot / ... (standard protocols)                   |
+| Current sensing    | High side hall effect sensor (ACS711)              |
+| Throttle interface | Standard                                           |
 | Telemetry          | Serial UART                                        |
 | Capacitor bank     | 26 × 10 µF 0805 MLCC                               |
+| Firmware           | AM32                                               |
 | PCB                | 38 x 41.5 mm, 30.5 × 30.5 mm mounting              |
 | Copper             | 2 oz outer, 0.5 oz inner                           |
 
@@ -42,7 +42,7 @@ Built from the ground up to understand what is happening inside an ESC, rather t
 </p>
 
 **Current revision:** 1\
-**Status:** Waiting
+**Status:** Waiting for ESC
 
 ### Specs
 
