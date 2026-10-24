@@ -6549,7 +6549,7 @@
 				)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "15pF"
 			(at 62.23 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9050,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Value" "15p"
+		(property "Value" "15pF"
 			(at 62.23 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
