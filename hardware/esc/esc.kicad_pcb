@@ -487,7 +487,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "08a7d108-1a3f-4064-9a6b-bd2219a4acaf")
 		(at 152.82 102.87 90)
@@ -875,7 +875,7 @@
 			(uuid "e61ad6da-ee56-47a4-b61d-eb754ba05f54")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -887,7 +887,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "08c16fef-0b59-4a7e-96bf-529dac8385bb")
 		(at 180.04 84.73 -90)
@@ -1275,7 +1275,7 @@
 			(uuid "76d78f1e-4b48-48ff-a4a2-10c1ed97c9a0")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1473,12 +1473,12 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "0c1184f7-84d1-4f4a-86ec-39a735b468dd")
 		(at 180.04 80.33 -90)
 		(property "Reference" "Q12"
-			(at 0 -2.42 90)
+			(at 0 -2.42 270)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "565433e9-1ca5-40ea-a8cb-98560a2ec997")
@@ -1490,7 +1490,7 @@
 			)
 		)
 		(property "Value" "AGM4025AP"
-			(at -0.01 0 90)
+			(at -0.01 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "53ed9026-206a-4de6-86bf-95d4b9168434")
@@ -1501,7 +1501,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/C42411651.pdf"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ba1ff452-eb4f-4d4e-8baa-5c0d901ac13b")
@@ -1512,7 +1512,7 @@
 			)
 		)
 		(property "Description" "N-Channel MOSFET 40V"
-			(at 0 0 90)
+			(at 0 0 270)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "31c82507-b8ba-4dc1-adc4-cc54d6270307")
@@ -1861,7 +1861,7 @@
 			(uuid "0c5d469b-ff74-4fed-97d4-9a3818176db2")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1873,7 +1873,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "0c6d5348-eaab-4e57-ba9b-1d69ed97d0a6")
 		(at 152.82 89.13 90)
@@ -2261,7 +2261,7 @@
 			(uuid "1b451d20-9710-486d-9eca-791083e26960")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4067,7 +4067,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "34eefd59-5249-4f45-928c-2e622d063387")
 		(at 180.04 102.87 90)
@@ -4455,7 +4455,7 @@
 			(uuid "b759fae3-6a4d-4845-ab96-f52d28aecd6f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4467,7 +4467,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "3769125e-cebc-462f-a7fa-05c2bbba07bf")
 		(at 175.71 84.73 180)
@@ -4855,7 +4855,7 @@
 			(uuid "188827ed-5be0-4aa4-8268-2b42adec0147")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6043,9 +6043,9 @@
 			)
 		)
 		(property ki_fp_filters "D*SMA*")
-		(path "/502d4439-d9cb-4fd5-9b0a-394340f6ffe0")
-		(sheetname "/")
-		(sheetfile "esc.kicad_sch")
+		(path "/f02545ea-24a0-4ea4-9b42-ebc52b038db2/1b70a3d4-9446-45e1-9fa3-45c1a4098c78")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6282,7 +6282,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "572f8be4-342b-4ed8-b2ef-b7b034cf9f18")
 		(at 152.82 84.73 -90)
@@ -6670,7 +6670,7 @@
 			(uuid "66a5c0f4-c092-4bd8-80e9-8344d98cdcfb")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6682,7 +6682,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "592ce684-4c98-4d6b-bf8b-dc5781b60975")
 		(at 175.71 94.07 180)
@@ -7070,7 +7070,7 @@
 			(uuid "d6307057-81bf-4c3c-91a2-ca4959416911")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7092,7 +7092,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f4fe6ad0-84d6-4339-8c5f-2669c634d777")
+			(uuid "50fe5bbd-81ff-4710-a3d9-b4e4e6fe8f1f")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -7103,7 +7103,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cfb23e0b-09c2-4cc2-b65f-f2cccbb679d4")
+			(uuid "698f8ff7-e099-4707-9632-be687612298e")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -7114,7 +7114,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "58e5ec5e-5f67-40ef-968e-9cf627b77ba4")
+			(uuid "7d92347f-a670-4c94-a7da-5b00a63d5511")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7125,7 +7125,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79811ac2-257d-48ad-9b5e-a2450fc071e5")
+			(uuid "4ab33642-bb66-4061-a67d-05f80ace80ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7419,7 +7419,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "5f517e52-609c-4dd6-b8ba-f3c82378b67e")
 		(at 152.82 80.33 -90)
@@ -7807,7 +7807,7 @@
 			(uuid "347498c9-e97d-4269-95e8-7b7a1bf07900")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7819,7 +7819,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "623e6a98-34ef-410b-94d5-5989379a65ff")
 		(at 157.15 98.4705)
@@ -8207,7 +8207,7 @@
 			(uuid "df32d107-6261-420b-bf93-9181040c0de2")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8413,7 +8413,7 @@
 			(at 0 -3.98 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "0afc3745-b94d-4752-b543-765003dc0f46")
+			(uuid "e98da6e6-fcd0-447a-a010-96f3f38d7dcf")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -8424,7 +8424,7 @@
 			(at 0 3.98 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "04743cfe-1c8b-4e38-b167-017d7bc6ede7")
+			(uuid "efcbc203-1f9d-4c33-982c-c6d025ba654f")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -8435,7 +8435,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b75ea8f-750e-43a9-b5da-52189a4169ca")
+			(uuid "74d6e435-8471-4ae4-9a16-9554920818dc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8446,7 +8446,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5850a620-2b44-4485-ab05-bbb2b620834e")
+			(uuid "361a4c2b-0a16-4b6e-a71b-e335c6f6640e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9562,7 +9562,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "77781f8b-591b-4d7a-a30b-8aa399051a40")
 		(at 175.71 89.13 180)
@@ -9950,7 +9950,7 @@
 			(uuid "136233c7-3825-4ef7-80e5-80114f07cbe9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9962,7 +9962,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "7f273891-03fb-4ac9-8a05-4af616f466a1")
 		(at 175.71 98.4705 180)
@@ -10350,7 +10350,7 @@
 			(uuid "7d39a50c-1893-4377-8469-3702f8a49ee4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10362,7 +10362,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "810e587f-77ff-4312-abeb-ea20a4aaa646")
 		(at 175.71 80.325 180)
@@ -10750,7 +10750,7 @@
 			(uuid "97dc8034-9199-4d1a-9073-511492343692")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10762,7 +10762,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "8339839a-18ee-40c0-a356-c1c9edf6deb8")
 		(at 157.15 80.33)
@@ -11150,7 +11150,7 @@
 			(uuid "bfab8a28-8e77-4eee-b4f6-dd0ced265629")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11558,7 +11558,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "8922a625-ac46-4faa-af2e-cdf76c0ffcdf")
 		(at 152.82 94.070001 -90)
@@ -11946,7 +11946,7 @@
 			(uuid "8ccce97e-a9a9-4575-ae26-18d4240c3724")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12921,7 +12921,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d1af0c32-1e9d-4309-9364-a285531ccc26")
+			(uuid "408c7c23-bcaf-4b0f-960e-2a937906bd9d")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -12932,7 +12932,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "899585e4-c5e7-4995-ab9c-d02ce2da7343")
+			(uuid "16789d66-3f23-4755-8ae8-52dbf4fa0bfc")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -12943,7 +12943,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "487079cd-9cbb-4ff4-b7a3-168a78d292f7")
+			(uuid "1dfa1786-ba5c-4a0c-bbc0-5d7b71a85bce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12954,7 +12954,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87683462-b6f3-445f-ace9-a79d598af9a0")
+			(uuid "7eeba375-a244-44ab-aa80-f7fcb1f74c26")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13246,7 +13246,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "96c5e452-e706-424a-9996-40802a7e1a7a")
 		(at 152.82 98.470001 -90)
@@ -13634,7 +13634,7 @@
 			(uuid "28c7152c-4571-4040-935c-6cd66b2c3a3a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13656,7 +13656,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "425bcae0-7837-403e-919a-7e6a25413969")
+			(uuid "0a67158d-a0cd-418d-9cf4-c60720483ca3")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -13667,7 +13667,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "79dc49b3-d9f3-488d-8a2f-d7ba0ac5093d")
+			(uuid "5b04dd43-3375-4df0-afa1-7ae20d016755")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -13678,7 +13678,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "728be867-2c39-4798-88b5-3f7151ffb96e")
+			(uuid "ad46fea8-112e-4a82-89cc-2d5a0642db27")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13689,7 +13689,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b444294-d626-40fe-8c22-358a2d6926d9")
+			(uuid "04baddff-d6d5-4756-90b1-f19c27ac09a2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14590,7 +14590,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "ab9dc22d-6236-4e29-aa4c-3b950371fe8b")
 		(at 180.04 98.47 -90)
@@ -14978,7 +14978,7 @@
 			(uuid "982ef7f6-a153-4a9a-8ad5-92d997376a12")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14990,7 +14990,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "ad4f67ec-5173-4ddd-9730-bf3bb19f8508")
 		(at 157.15 102.87)
@@ -15378,7 +15378,7 @@
 			(uuid "13c07af3-f8fd-4831-9c63-690bc401f1fc")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15390,7 +15390,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "b10026c9-4706-4d57-83c1-0ac873ba275d")
 		(at 180.04 94.07 -90)
@@ -15778,7 +15778,7 @@
 			(uuid "5b334c00-37fe-4823-8753-e42977a24988")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16168,7 +16168,7 @@
 			(at 0 -4.15 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "bfb5fa5b-7bb9-43fd-a70b-f1b27504c0ff")
+			(uuid "feb614c0-d815-47f4-9723-e5b6c8236e66")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -16179,7 +16179,7 @@
 			(at 0 4.15 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95e3d241-3404-4912-83d3-381a119c89ce")
+			(uuid "52b99a10-b4be-4250-8675-d9f19ee8a6f4")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -16190,7 +16190,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e8a054d7-f09d-44b3-8900-3ef050f4ce8b")
+			(uuid "32fe9146-9fe2-4a1b-a21c-9d8d7df38d4f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16201,7 +16201,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7b889120-0306-4d98-a288-baf740c10d9d")
+			(uuid "057c801f-29db-49f2-aa0b-ee7be5b29e8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16609,7 +16609,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "c8820260-8fe3-4d46-8d66-c54b6686b7c0")
 		(at 175.71 102.8705 180)
@@ -16997,7 +16997,7 @@
 			(uuid "c49ce073-e85d-485d-bec0-60a7d48b3d5d")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17561,7 +17561,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "d8fcfcee-d17d-417f-a14d-e7bbc23994c6")
 		(at 180.04 89.13 90)
@@ -17949,7 +17949,7 @@
 			(uuid "1456bf5d-bfec-4642-a821-ca7c86de3cff")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17961,7 +17961,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "e306efbe-2a06-44de-b0b0-a330ea2b78f9")
 		(at 157.15 84.73)
@@ -18349,7 +18349,7 @@
 			(uuid "e6a45fe0-2e4b-42af-b828-4f67f43be135")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18650,7 +18650,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "f41c1094-cb7e-4cb2-b3f0-a1f2c1594580")
 		(at 157.15 94.07)
@@ -19038,7 +19038,7 @@
 			(uuid "2ba1fa4e-e710-45ba-9e3e-f565c4690a2c")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19234,7 +19234,7 @@
 			)
 		)
 	)
-	(footprint "Stratus:CSD17575Q3"
+	(footprint "Stratus:AGM4025AP"
 		(layer "F.Cu")
 		(uuid "fde4ee07-61a8-4628-a7df-3c8fea38bf2a")
 		(at 157.15 89.13)
@@ -19622,7 +19622,7 @@
 			(uuid "954b918c-e5d2-4cf7-8073-d239e792ebd9")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/../Stratus.3dshapes/CSD17575Q3.step"
+		(model "${KIPRJMOD}/../Stratus.3dshapes/AGM4025AP.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24443,9 +24443,9 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
-		(path "/2b020aa4-09be-40f7-82c7-28ac255091ca")
-		(sheetname "/")
-		(sheetfile "esc.kicad_sch")
+		(path "/f02545ea-24a0-4ea4-9b42-ebc52b038db2/f34fde27-a168-4068-b136-170b64fa3988")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27364,7 +27364,7 @@
 			(at 0 3.83 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "76ca6945-228e-403a-ade9-9c5dd0ef6033")
+			(uuid "7e9247b8-9c0d-4484-9ce1-8b65d02bfc11")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -27376,7 +27376,7 @@
 			(at 0 -3.83 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e1793495-9ac6-4668-b042-b79d7c04b114")
+			(uuid "bc0087ca-a667-4054-811e-85ea7cacc231")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -27388,7 +27388,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f30b6b85-f880-485a-85e5-3731a905604a")
+			(uuid "5045ba10-a33d-4a9f-99fd-92939829b550")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27400,7 +27400,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e306ec06-25c3-4f0f-8dd5-5a2b7bb5d469")
+			(uuid "5ea548c8-fcfe-40f2-bac4-750de4ac18f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30818,7 +30818,7 @@
 			(at 0 3.83 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "31a7d270-da57-4f48-8133-aa6eb908601b")
+			(uuid "6e0095b0-ae2e-4608-97b7-37e96bbc09da")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -30830,7 +30830,7 @@
 			(at 0 -3.83 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "10a60aa1-01fa-46a0-9d1b-bb7fa3cd1175")
+			(uuid "615946e9-7c4c-41b6-906d-798e40f9f8a4")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -30842,7 +30842,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a16cc77a-9837-47a9-9c73-b7d1878cfd9d")
+			(uuid "c260ec7c-2456-41d7-bfb0-0010ebba5354")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30854,7 +30854,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "accfd2b9-9aa2-421b-8f0b-ee73e6fb3f0a")
+			(uuid "947d387b-1ca4-4ed4-80cd-c83043e7f2cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34107,9 +34107,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/7e3f5344-29c3-43a8-b94b-3f08808d3a6e")
-		(sheetname "/")
-		(sheetfile "esc.kicad_sch")
+		(path "/f02545ea-24a0-4ea4-9b42-ebc52b038db2/de68c48f-faf0-4085-bf24-c5b1d4819600")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36351,7 +36351,7 @@
 			(unlocked yes)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "39b0f92d-9d37-4574-bcb3-f57c3046e38a")
+			(uuid "e74b02e0-6bfd-48f6-8e64-fe172fc8434f")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -36364,7 +36364,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2c414683-044a-4a94-b39d-c1049d1948eb")
+			(uuid "0c2b9579-1ca5-4468-b975-11ca6649ecf5")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -36376,7 +36376,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2a595c9a-69a6-4433-a1b1-b5cda702e3a5")
+			(uuid "007fea39-8b37-4657-b1b5-60dc1238a031")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36388,7 +36388,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "9280bf46-dc35-416e-8b63-9f6aa6714619")
+			(uuid "1bea9039-1171-4512-9c43-62ae0f06f776")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41152,7 +41152,7 @@
 			(at 0 3.83 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "0359fefa-f8a8-4b8b-9ca1-fcabfa17adc2")
+			(uuid "aabfd5cc-5ee0-4f46-b0d1-69e990037379")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -41164,7 +41164,7 @@
 			(at 0 -3.83 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "62a0f975-a0f0-4b38-89f0-2897d6f3d541")
+			(uuid "aed3a5e3-f810-425a-95c6-521a72284f6e")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -41176,7 +41176,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "2072a886-51f9-48db-92ac-d2962b05e44b")
+			(uuid "aeb01e87-9aaa-46f5-afc1-aad1a4c63cf8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41188,7 +41188,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b76f732a-88b1-417f-be11-94b4f557c9d5")
+			(uuid "4f1ddb41-f724-48dc-8df6-6664461f3259")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47820,9 +47820,9 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
-		(path "/0e1c2303-38eb-4090-bedc-b1be3760ac61")
-		(sheetname "/")
-		(sheetfile "esc.kicad_sch")
+		(path "/f02545ea-24a0-4ea4-9b42-ebc52b038db2/a3945421-d1b7-42b4-89ed-bcc2ee76549e")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47977,7 +47977,7 @@
 			(at 0 3.83 0)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "ac99ca2e-99f5-414b-b12c-a2a20d058dec")
+			(uuid "c30df092-4175-4599-b632-46ce51d30406")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -47989,7 +47989,7 @@
 			(at 0 -3.83 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "449402a8-7cf4-4103-aecf-3dd1001498ad")
+			(uuid "640f3b07-ae94-4668-bb09-c7cdd6475921")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -48001,7 +48001,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "98a434b1-34a9-4640-9a30-70849050e1ca")
+			(uuid "c52a0be8-c4b1-4b87-94e1-92fdc8e0193d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48013,7 +48013,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "3aa21924-faef-4182-8648-897a18e2d71a")
+			(uuid "d44c1c0f-11d9-422c-9ac3-ca5e33ac3a1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51162,9 +51162,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/2613a68d-2d43-43c4-af23-5c6fc12323f0")
-		(sheetname "/")
-		(sheetfile "esc.kicad_sch")
+		(path "/f02545ea-24a0-4ea4-9b42-ebc52b038db2/33b4cd4f-50f5-4ed6-a521-ce397fcad205")
+		(sheetname "/Power/")
+		(sheetfile "power.kicad_sch")
 		(units
 			(unit
 				(name "A")
