@@ -3239,6 +3239,10 @@
 		(uuid "0604a6d6-b494-4fec-b9c5-d05aec849a1c")
 	)
 	(no_connect
+		(at 128.27 93.98)
+		(uuid "1a43d515-4bac-4da9-b46b-96435f9e1649")
+	)
+	(no_connect
 		(at 128.27 104.14)
 		(uuid "3391c689-b268-4374-bf41-a135f4f4b27d")
 	)
@@ -3992,16 +3996,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 93.98) (xy 138.43 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "58180d9f-23d0-44f5-bd88-f6bde06a3f09")
-	)
-	(wire
-		(pts
 			(xy 267.97 102.87) (xy 278.13 102.87)
 		)
 		(stroke
@@ -4589,16 +4583,6 @@
 			(type default)
 		)
 		(uuid "aa64bcbf-90db-437b-aaa4-66e77f2851a6")
-	)
-	(wire
-		(pts
-			(xy 224.79 102.87) (xy 234.95 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac146906-6c1f-4a4f-b74d-a26993b15f4f")
 	)
 	(wire
 		(pts
@@ -5260,16 +5244,6 @@
 		)
 		(uuid "374367b0-7de8-433c-9912-4d05a35132f7")
 	)
-	(label "CC"
-		(at 234.95 102.87 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "392839a9-06b2-40c7-806f-91469261afed")
-	)
 	(label "IMU.MOSI"
 		(at 138.43 116.84 180)
 		(effects
@@ -5389,16 +5363,6 @@
 			(justify right bottom)
 		)
 		(uuid "57b24b4e-e08e-47c3-b631-f745aa8b60fd")
-	)
-	(label "CC"
-		(at 138.43 93.98 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "58b41748-8654-431b-b79a-c68200707b7d")
 	)
 	(label "SD.CLK"
 		(at 176.53 114.3 0)
@@ -10808,16 +10772,6 @@
 		(pin "VIDEO" input
 			(at 224.79 107.95 0)
 			(uuid "89941c0c-7cf2-4d81-8d46-d12d2d1ec9b1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CC" output
-			(at 224.79 102.87 0)
-			(uuid "c415ed71-75ce-417f-9bff-c299d566a692")
 			(effects
 				(font
 					(size 1.27 1.27)
