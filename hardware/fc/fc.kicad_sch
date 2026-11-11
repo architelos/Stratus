@@ -4316,6 +4316,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 121.92) (xy 77.47 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "852de9eb-0f61-42cc-9339-397175a33744")
+	)
+	(wire
+		(pts
 			(xy 138.43 160.02) (xy 128.27 160.02)
 		)
 		(stroke
@@ -4566,7 +4576,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 121.92) (xy 77.47 121.92)
+			(xy 60.96 121.92) (xy 69.85 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6928,6 +6938,86 @@
 			(project "fc"
 				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
 					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 72.39 121.92 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "297d156e-bb34-41e2-97de-a53216493908")
+		(property "Reference" "R31"
+			(at 72.39 127 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 72.39 124.46 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 72.39 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 72.39 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d4435fc7-cf6c-4500-a7e8-1bec4712a164")
+		)
+		(pin "1"
+			(uuid "f2ec65e4-a389-48fe-8387-f5c3ba0eb493")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R31")
 					(unit 1)
 				)
 			)
