@@ -631,6 +631,30 @@
           "show": true
         },
         {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MFR",
+          "name": "MFR",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC#",
+          "name": "LCSC#",
+          "show": true
+        },
+        {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
@@ -646,12 +670,6 @@
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
-        },
-        {
-          "group_by": true,
-          "label": "Exclude from Simulation",
-          "name": "${EXCLUDE_FROM_SIM}",
           "show": true
         },
         {
@@ -674,8 +692,14 @@
         },
         {
           "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
           "show": false
         },
         {
@@ -692,32 +716,14 @@
         },
         {
           "group_by": false,
-          "label": "MFR",
-          "name": "MFR",
+          "label": "KLC_S4.2_DVDD",
+          "name": "KLC_S4.2_DVDD",
           "show": false
         },
         {
           "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC#",
-          "name": "LCSC#",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
+          "label": "KLC_S4.2_VREG_LX",
+          "name": "KLC_S4.2_VREG_LX",
           "show": false
         }
       ],
@@ -769,7 +775,7 @@
         "uuid": "6eb6d89e-9d71-4347-9ba3-a394c00e5720"
       }
     ],
-    "used_designators": "U2,U4-14,C1-10,C17-49,C65-68,#PWR1-43,#PWR51-60,#PWR63-68,#PWR75-82,#PWR147,L1-2,D1-3,R1-4,R7-16,R21-31,R74-77,J1-8",
+    "used_designators": "U2,U4-14,C1-10,C17-49,C65-68,#PWR1-43,#PWR51-60,#PWR63-68,#PWR75-82,#PWR147,L1-2,D1-3,R1-4,R7-16,R21-30,R74-77,J1-8",
     "variants": []
   },
   "sheets": [
