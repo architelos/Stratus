@@ -1,8 +1,9 @@
 # Stratus
 
-My take on an custom, open source yet practical drone stack.
+A custom, open source yet practical drone stack.\
+Open sourced in the hope that it could serve as a stepping stone in someone else's journey!
 
-## Jett (ESC)
+## ESC - Jett
 
 <p align="center">
   <img src="images/jett_front.jpg" width="48%">
@@ -10,7 +11,7 @@ My take on an custom, open source yet practical drone stack.
 </p>
 
 **Current revision:** 3\
-**Status:** Waiting on fab
+**Status:** Testing
 
 ### Specs
 
@@ -19,14 +20,9 @@ My take on an custom, open source yet practical drone stack.
 | MCU                | STM32G071K(B/8)U(3/6)                              |
 | Gate driver        | DRV8300DRGER                                       |
 | Input              | 3S to 5S LiPo                                      |
-| Continuous current | 25 A continuous, 30 A peaks                        |
+| Continuous current | 25A, 30A peaks                                     |
 | Current sensing    | High side hall effect sensor (ACS711)              |
-| Throttle interface | Standard                                           |
-| Telemetry          | Serial UART                                        |
-| Capacitor bank     | 26 × 10 µF 0805 MLCC                               |
 | Firmware           | AM32                                               |
-| PCB                | 38 x 41.5 mm, 30.5 × 30.5 mm mounting              |
-| Copper             | 2 oz outer, 0.5 oz inner                           |
 
 ### Description
 
@@ -42,7 +38,7 @@ Built from the ground up to understand what is happening inside an ESC, rather t
 </p>
 
 **Current revision:** 1\
-**Status:** Waiting for ESC
+**Status:** Waiting for Jett
 
 ### Specs
 
@@ -50,16 +46,21 @@ Built from the ground up to understand what is happening inside an ESC, rather t
 | ------------------ | -------------------------------------------------- |
 | MCU                | RP2354A                                            |
 | IMU                | LSM6DSK320X                                        |
-| Input              | 2S to 4S LiPo                                      |
-| BECs               | 5V → VTX + Camera ; 3V3 → MCU + IMU                |
-| Connectivity       | USB-C / JST-SH                                     |
+| Input              | 3S to 4S LiPo                                      |
+| BECs               | 5V → VTX + Camera; 3V3 → MCU + IMU                 |
 | Storage            | MicroSD                                            |
 | Firmware           | Betaflight                                         |
-| PCB                | 38 × 38 mm, 30.5 × 30.5 mm mounting                |
-| Copper             | 1 oz outer, 0.5 oz inner                           |
 
 The flight controller completes the Stratus stack, with the same focus on practical hardware and understanding the underlying system.
 
+## Acknowledgements <3
+
+Thank you to:
+- **AlkaMotors**, **brushlesspower** for the endless patience and willingness to share experience.
+- **anticitizen**, **Diamond Master** for design reviews and contributions.
+
+This project would not have been possible without you!
+
 ## License
 
-CERN-OHL-2.0, see [LICENSE](LICENSE)
+CERN-OHL-S-2.0, see [LICENSE](LICENSE).
