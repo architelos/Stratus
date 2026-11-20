@@ -1469,28 +1469,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 142.24 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 142.24 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "2d60c523-a863-46f8-adf9-7ba5149a7448")
 		)
@@ -1597,28 +1575,6 @@
 			)
 		)
 		(property "MPN" "LSM6DSK320XTR"
-			(at 137.16 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 137.16 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 137.16 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -1770,28 +1726,6 @@
 			)
 		)
 		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
-			(at 132.08 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 132.08 129.54 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 132.08 129.54 0)
 			(hide yes)
 			(show_name no)

@@ -5,7 +5,7 @@
 "C11,C12","2","4.7uF","0603 4.7uF 35V","Samsung","CL10A475KL8NRNC","C307467","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0603_1608Metric",""
 "C13,C18,C19,C20,C24,C25,C27,C28,C34,C36,C37,C38,C39,C40,C41,C42,C43,C44,C45,C46,C48","21","0.1uF","0402 0.1uF 35V","TDK","CGA2B3X7R1V104KT0Y0F","C343047","","","","${EXCLUDE_FROM_POS_FILES}","Stratus:C_0402",""
 "C26","1","330pF","0402 330pF 35V","Murata","GRM1555C1H331JA01D","C76965","","","","${EXCLUDE_FROM_POS_FILES}","Stratus:C_0402",""
-"C32,C33","2","15pF","0402 15pF 35V","Samsung","CL05C150JB5NNNC","C86285","","","","${EXCLUDE_FROM_POS_FILES}","Stratus:C_0402",""
+"C32,C33","2","15pF","0402 15pF 35V","TDK","CGA2B2C0G1H150JT0Y0F","C338103","","","","${EXCLUDE_FROM_POS_FILES}","Stratus:C_0402",""
 "D1","1","SDM10U45LP-7","Diode 40 V 100mA Surface Mount X1-DFN1006-2","Diodes Inc.","SDM10U45LP-7","C78151","","","","${EXCLUDE_FROM_POS_FILES}","Stratus:D_0402",""
 "D2,D3","2","Green","0603 Green LED","Vishay","VLMTG1400-GS08","C3000897","","","","${EXCLUDE_FROM_POS_FILES}","LED_SMD:LED_0603_1608Metric",""
 "J1","1","USB4110-GF-A","USB 2.0-only 16P Type-C Receptacle connector","GCT","USB4110-GF-A","C5143397","","","","${EXCLUDE_FROM_POS_FILES}","Connector_USB:USB_C_Receptacle_GCT_USB4110","https://www.usb.org/sites/default/files/documents/usb_type-c.zip"

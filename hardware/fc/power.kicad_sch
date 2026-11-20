@@ -4116,28 +4116,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 145.415 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 145.415 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "0735f370-8af9-4d79-8945-aad09ceeb385")
 		)
@@ -4243,28 +4221,6 @@
 			)
 		)
 		(property "MPN" "TDK105CBJ475MV-F"
-			(at 240.03 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 240.03 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 240.03 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -4389,28 +4345,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 60.96 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 60.96 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "c5e897aa-95e7-4e34-aec0-79bfb645bed6")
 		)
@@ -4514,28 +4448,6 @@
 			)
 		)
 		(property "MPN" "BCL322520RT-4R7M-D"
-			(at 123.825 62.23 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 123.825 62.23 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 123.825 62.23 90)
 			(hide yes)
 			(show_name no)
@@ -4728,28 +4640,6 @@
 			)
 		)
 		(property "MPN" "GRM155R6YA105KE11J"
-			(at 163.83 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 163.83 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 163.83 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -5340,28 +5230,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 217.17 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 217.17 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "356b35aa-a0e6-4a68-95a7-0c583c4e61e3")
 		)
@@ -5467,28 +5335,6 @@
 			)
 		)
 		(property "MPN" "TDK105CBJ475MV-F"
-			(at 120.65 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 120.65 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 120.65 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5690,28 +5536,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 212.09 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 212.09 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "5"
 			(uuid "0286af59-e908-428c-886e-84cc3b6d3fb8")
 		)
@@ -5845,28 +5669,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 99.06 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 99.06 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2ee53683-c7cb-4550-bc44-22acfcba515d")
 		)
@@ -5971,28 +5773,6 @@
 			)
 		)
 		(property "MPN" "LMR51420YFDDCR"
-			(at 98.425 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 98.425 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 98.425 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6130,28 +5910,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 128.905 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 128.905 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "d7688f5c-84a7-439f-b0fa-354c9a53ca14")
 		)
@@ -6255,28 +6013,6 @@
 			)
 		)
 		(property "MPN" "TDK105CBJ475MV-F"
-			(at 229.87 67.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 229.87 67.31 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 229.87 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -6392,28 +6128,6 @@
 			)
 		)
 		(property "MPN" "CL05A474KA5NNNC"
-			(at 109.22 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 109.22 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 109.22 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6851,28 +6565,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 83.185 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 83.185 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "3529a101-d525-4141-bf97-d1db2ad7027c")
 		)
@@ -7066,28 +6758,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 99.06 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 99.06 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2ebf42f8-12a8-41ed-b2c0-ed43c1588858")
 		)
@@ -7193,28 +6863,6 @@
 			)
 		)
 		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
-			(at 111.125 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 111.125 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 111.125 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -7485,28 +7133,6 @@
 		)
 		(property "MPN" "TPS7A8101DRBR"
 			(at 160.02 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 102.87 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 102.87 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7808,28 +7434,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 128.905 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 128.905 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "7e9352e1-8635-47c1-9fa8-ff1eb2f5f419")
 		)
@@ -8101,28 +7705,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 71.755 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 71.755 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "b2fd075b-2638-4d3c-bba5-bd558788f9e1")
 		)
@@ -8316,28 +7898,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 228.6 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 228.6 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "2b3405b1-cdf0-4265-a8ae-98f3954a8b54")
 		)
@@ -8453,28 +8013,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 207.01 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 207.01 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "ccd98e09-41a2-4c2c-b868-14e7c103be1d")
 		)
@@ -8578,28 +8116,6 @@
 			)
 		)
 		(property "MPN" "TDK105CBJ475MV-F"
-			(at 194.31 57.15 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 194.31 57.15 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 194.31 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -8726,28 +8242,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 156.845 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 156.845 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "35fbdea8-b26d-4999-98f6-9ed9cac7339e")
 		)
@@ -8852,28 +8346,6 @@
 			)
 		)
 		(property "MPN" "GRM155R6YA105KE11J"
-			(at 55.88 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 55.88 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 55.88 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -8999,28 +8471,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 132.08 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 132.08 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "36c1b2d8-d4dc-46d8-b5e5-43152bae1834")
 		)
@@ -9135,28 +8585,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 194.31 77.47 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 194.31 77.47 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
 			(uuid "756876a5-a0f3-45e8-b484-a234bf46a9ca")
 		)
@@ -9261,28 +8689,6 @@
 			)
 		)
 		(property "MPN" "CL05A474KA5NNNC"
-			(at 168.91 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 168.91 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 168.91 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9719,28 +9125,6 @@
 				)
 			)
 		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 207.01 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 207.01 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "1"
 			(uuid "cfe0e71a-d804-49ce-8009-e4ba3d0874f1")
 		)
@@ -9846,28 +9230,6 @@
 		)
 		(property "MPN" "TPS7A8101DRBR"
 			(at 267.97 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 210.82 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
-			(at 210.82 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10004,28 +9366,6 @@
 			)
 		)
 		(property "MPN" "TDK105CBJ475MV-F"
-			(at 133.985 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_DVDD" ""
-			(at 133.985 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S4.2_VREG_LX" ""
 			(at 133.985 67.31 0)
 			(hide yes)
 			(show_name no)

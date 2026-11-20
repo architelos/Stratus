@@ -695,36 +695,6 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer",
-          "name": "Manufacturer",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "KLC_S4.2_DVDD",
-          "name": "KLC_S4.2_DVDD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "KLC_S4.2_VREG_LX",
-          "name": "KLC_S4.2_VREG_LX",
-          "show": false
         }
       ],
       "filter_string": "",
