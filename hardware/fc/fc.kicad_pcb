@@ -224,19 +224,6 @@
 				)
 			)
 		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "15dd92c7-bbb2-4ebb-b114-15ff949f6cdd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "LCSC#" "C3000897"
 			(at 0 0 0)
 			(unlocked yes)
@@ -462,7 +449,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -470,6 +457,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a34a803-9f7a-429e-b984-8718e8e33b7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cb1c3a6-b77e-446c-99a1-6e29eb69bc59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0faec913-e746-4387-ba18-5a9d513e4ed4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -607,7 +633,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -615,6 +641,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38c5bef4-ae32-4cc4-bc02-f30b211619b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d17327b-1452-4534-9142-a8d2a440a639")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f6846ea-3e26-4400-a261-202d4bf0a8e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -773,7 +838,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -890,7 +955,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -898,6 +963,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21173daf-0fd1-4a1a-8644-9f61ae343e03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "688c6922-2760-48c4-95a4-178738b7bdb8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89c5fa2d-7ed4-4821-9da2-51c443429f16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1035,7 +1139,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1043,6 +1147,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55387145-770f-40ee-8c9b-f7e5e86862b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4528956a-3a06-46b3-838c-188252d005be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebfc2865-1929-4483-bc14-79a8d9e4c5ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1180,7 +1323,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 5.1k"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1188,6 +1331,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C105872"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f8c6ced-21d0-4634-bbfb-5890ea84ed39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "45c4ef22-6520-434a-becb-30b678996743")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1177fdbe-3a6f-42a2-87f8-35b1694a661f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1325,7 +1507,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1333,6 +1515,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaefd6bf-6107-49e7-bb5a-a85b9c2e74e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cb55fdb-a0f7-474c-bb2f-ea1670f07cd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d419fb61-491e-454e-823f-ec8423f639fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1470,7 +1691,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1478,6 +1699,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15c7cd55-c424-446a-ac3b-57f2a575ff30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fede06ca-5c3c-4b02-82ee-d92b427ff8bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eb4e44f7-58d1-4be7-a5f2-082855011471")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1636,7 +1896,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -1778,6 +2038,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -2293,7 +2554,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2301,6 +2562,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1f6b4aef-8fd5-446f-ad7a-40a7770b0b67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a39ec98-2228-4052-92a6-15a5c4a64de4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b993a06b-9040-4781-90e8-b21921b1dffa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2440,7 +2740,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2448,6 +2748,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C144807"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "82be9210-bd1d-4d43-8246-12f3f9ba5a0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d8d6d3b-d43d-45f6-af18-e4f9fcd54dc5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0710KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39554988-858d-4043-8d36-75a923331252")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2589,12 +2928,51 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "2mm x 3mm SMD SPST tactile switch"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "12293771-2fda-4ac2-8662-b3c90321b3fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C2858607"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64ce2eed-49c6-4a9f-8aef-08720b625c0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "92bfe096-5953-4d26-9cb7-970cfcd56714")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "EVPAWED40"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c24d1a09-7edb-488c-9696-ba28adb9fb77")
 			(effects
 				(font
 					(size 1 1)
@@ -2729,12 +3107,51 @@
 				)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "0806 3.3uH 2.1A Isat"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee0d0e9f-61c9-4f30-a5b2-d8d5386eb2b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC#" "C42411119"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26cf1360-f734-4f81-b683-84fcbe4bc5d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Abracon"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c9eaa61-59fd-426e-a066-1f5f9dc4217b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AOTA-B201610S3R3-101-T"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b13f575-d4b4-41b3-b8b0-30d85ad502cb")
 			(effects
 				(font
 					(size 1 1)
@@ -2883,7 +3300,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 470nF 25V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2891,6 +3308,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C92361"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b7766f8-b735-42cd-bcf4-30f0d8727854")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Samsung"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e9eec7b-ef00-4491-8d62-65e7cdbdf458")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL05A474KA5NNNC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa15e199-f6bd-4ec7-82e6-cf82cbe1f189")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3049,7 +3505,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -3166,7 +3622,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3174,6 +3630,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ce49f2fa-b8bc-4ba9-81a0-5b7cb0ab2c4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c53c907e-919a-45ea-b8d2-92a2ee709d09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "317db8a2-8fd4-44a1-b563-a03f1003731a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3311,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 470nF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3319,6 +3814,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C92361"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42718cd8-e0e5-42bf-b055-927eb2766bc0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Samsung"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3b4f5660-456f-4f91-949b-633f9ac6e652")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CL05A474KA5NNNC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cdffa89-44a4-4957-a6e0-64472006f636")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3456,7 +3990,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3464,6 +3998,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00fbd8ca-cf3e-48b9-a8bd-da24981cbe76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "465e88f7-e790-4d31-af59-56bf0cbfbea6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "58f0445d-06db-447d-844a-908437a9e736")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3601,7 +4174,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3609,6 +4182,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8cd66390-f554-40af-ba6f-6bd62778d828")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7019f474-91da-49e5-8c1e-b04a9ceff24f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d86e9ef4-3541-4854-8e7c-f0c5c4a3b8d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3746,7 +4358,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3754,6 +4366,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c9bbe22f-4280-4d5d-bfd6-ae72e2157491")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fd29879-a09e-4f25-a2fd-f2c444dd5960")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "af927231-b220-46f6-9995-6efe23981aff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -3891,7 +4542,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3899,6 +4550,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d30689d8-b867-4851-993c-5c603709aca8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a12b78f-1da9-4603-9679-a0e6e351f7fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c868108c-a7bb-455c-84e8-cc3592bd3362")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4061,6 +4751,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -4144,7 +4835,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4152,6 +4843,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6e51be4-e221-4156-bd27-2baf28d8663d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3280dc0e-0afd-4436-8ed7-dc18c07c8194")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bf7af95-ba98-4b41-9bbb-2915cab1b73c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4289,7 +5019,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 5.1k"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4297,6 +5027,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C105872"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e04fb4d-1000-4f3a-95e9-e2704f2289b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "51e26dc4-549e-4a3f-af68-bff423050f12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15bdeb8c-97d8-49fc-a844-41322e78443b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4434,7 +5203,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4442,6 +5211,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C3835721"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9167e71-9bd1-48b3-9897-2549c8b01622")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4139ae0b-ebb0-4fc3-b682-51f5b1a22604")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "869ab79e-7651-4011-8bee-7ff143fe3fd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4579,7 +5387,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4587,6 +5395,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "452bec48-149a-453a-9216-717ddd19caab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaeaf1ba-6d6a-4745-82b6-690d6ea82db6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ef0323c-b637-4bb6-924c-a289cd0eb391")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4724,7 +5571,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4732,6 +5579,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f832d55-b9a3-451c-8dbf-40c7229d8341")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dc75e2d-5147-412d-9377-dd9b2707323c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dc0c3c2-7dfd-4643-ab08-72f3755dc015")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4869,7 +5755,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4877,6 +5763,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19935332-1f34-455f-b50a-bccf026c5fdb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4921b304-b8e6-4fa5-aaca-ffa3ca3b80f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0658f457-cc30-413d-ad55-341252451877")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5035,7 +5960,7 @@
 				(pins)
 			)
 		)
-		(attr exclude_from_bom)
+		(attr exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -5618,7 +6543,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5626,6 +6551,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C144807"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d966dcf4-d773-4b67-98cc-fd6138401e6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6b38baf-6eea-4da9-8e70-a20279a33dd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0710KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44a1383f-3976-4fe7-814d-b2063553bdbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5763,7 +6727,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5771,6 +6735,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "050b8541-b9de-47a4-8035-170f02dfc04d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d131ca97-de56-460d-bb43-6d99691f6b56")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c7ea443-b4ce-437c-9769-ac07a8869f85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -5916,6 +6919,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C41378174"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64e8b5c8-7eda-4db4-96b7-05dfb34ffd54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Raspberry Pi"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5007f83-0e18-4d87-9f93-dbd8e01d8003")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "RP2354A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b6ca1e84-3a7c-4cac-b0e4-4a7d11f8d306")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6975,7 +8017,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6983,6 +8025,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f89cedc-b7a6-4beb-999e-2e3cc4983bde")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "42f05fa1-5144-4dc5-a890-a4ae9ecd322c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb3ab8d5-8ada-4bd2-8899-26840d7817bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7128,19 +8209,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0d21506d-b1bd-4159-84d7-8355edfd33c9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
 				)
 			)
 		)
@@ -7369,7 +8437,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -7377,6 +8445,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e31bc1b-5e15-4b90-ae3f-36f372be615f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55a8042d-d52a-496b-b633-de87cfff767c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d592e29-d87a-4ffb-b84b-81e2693557db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7514,7 +8621,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7522,6 +8629,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a74dee61-ecff-40c0-a067-758bd3a2e344")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2d54abc-8e60-4ac5-a820-9f03f512aa5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f72af2c7-cbf0-438e-bab1-985386e117bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7659,7 +8805,7 @@
 				)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 31.6k"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7667,6 +8813,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C226989"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4e387cf-3074-413f-bbbc-44f9c3b9c988")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cff3d006-342f-42e2-8e2f-3185c9419efa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "AC0402FR-0731K6L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df7faccf-5149-416a-b07f-9956d1a5d4e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7989,7 +9174,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7997,6 +9182,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9aeefb67-92b0-4a4b-9939-dda4cc6c00d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2ec5a2f-84c3-4eae-86a6-163aaca7367c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7bb5b7e-aca2-4aaa-83cc-a2f35e5365c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8134,7 +9358,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8142,6 +9366,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4791713d-a966-43f1-a79d-43027d761a30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5f799e1-c731-47ec-b433-35251c820346")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fe6bada-03ba-4ad7-8f88-4c98afed620e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8279,7 +9542,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8287,6 +9550,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ba6202d-6575-492b-b671-d928f17938d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6aa7492f-4d2a-4dbd-ba64-36744a1ae3ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd62ebc0-089f-4407-9faa-13d3d2beed8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8432,6 +9734,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C53025794"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62d4bb68-d6ab-4613-b794-841f4f971e2d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "ST"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21a1fb14-631b-4ba5-a0fc-fe138d67daef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "LSM6DSK320XTR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f4ea212-db1f-401b-8e80-01a713928094")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8764,7 +10105,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8772,6 +10113,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14670834-e0ee-4cd6-abe1-0022e9cce1bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3139e55-a554-4e42-a056-70d7b33f0177")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cdd0cd55-5fe8-4398-9147-923f66081e54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8909,7 +10289,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -8917,6 +10297,45 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a99b1a21-b03d-4c68-a247-c415d1c591d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "72f9527a-788f-475a-9093-c1572a0bfce8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0fdabb60-4d42-4d44-a376-e2161bb4938f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -9057,7 +10476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -9065,6 +10484,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ab87aa20-97b5-4360-acd1-0d87ef2a1ffe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d610a625-c72a-4cbe-a259-a3ab21b69257")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a015ec54-977b-4ae3-ba4f-716c2afe1660")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -10005,7 +11466,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -10013,6 +11474,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "05fa02c0-6045-46ae-ac86-e83ed6afe274")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9f10a118-6ef7-449c-a3a3-b6f5120d400a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c55aed64-5417-4777-b0cb-b6cff0e09fcd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -10157,7 +11660,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 220k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -10165,6 +11668,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C144780"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c4a3dc1-ead9-4ded-b11c-07ba163d985d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9e53b5e0-3684-4af8-aa4e-6e2bc9563c7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-07220KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b627eb9e-4544-4d1c-8f63-93fa974fa4f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -10763,6 +12308,48 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC#" "C544337"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0d432fbc-3e11-402d-8b02-ba6e3c573803")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TI"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a76fb56f-c841-48d3-b576-174847fde086")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "LMV7219M7X"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c69f96d3-8053-4503-94e0-5ae6b8645973")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/276edf30-9f9a-4117-88d0-d19da50b207c/55443f6f-21eb-4e45-a098-a0c3cd01997d")
 		(sheetname "/OSD/")
@@ -11143,7 +12730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 31.6k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -11151,6 +12738,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C226989"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f687d5fe-3b08-4c8d-aa97-7246f538c9b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ba4aaa5-12b3-4cb2-a72a-d8cacdecd3ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0731K6L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8966d78b-5d4c-4b0e-a667-57e57e419d8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11293,7 +12922,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -11301,6 +12930,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d58d604-4508-40d8-aff1-3e39620e0b45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "df713ec0-c796-49f1-99e1-6f25668f2c6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "686f5bd0-8a3a-4500-bc52-7477ec880f50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11445,7 +13116,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -11453,6 +13124,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C144807"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ea5cbc25-3535-41a4-81e8-d33adcbcb653")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "770baa3a-1f30-4268-82cc-95245917ac65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0710KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9bcd22e3-b185-4571-8fd1-aa6d14ec2045")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -11597,7 +13310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Horizontal JST-SH 1x4"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -11605,6 +13318,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C160404"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66911ef3-35be-4500-840a-fac9200b5c2a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "JST"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "438a6792-b870-416a-9d17-ae6f7d9feb09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "SM04B-SRSS-TB(LF)(SN)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b81b70a1-25ec-455d-8993-fbfd3a134907")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12449,7 +14204,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 2k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12457,6 +14212,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C60488"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2a838f7-be6c-4604-bdd2-c54f58a6492a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e2eac81-34fe-43e4-b2ff-567053287dbf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-072KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "73d1d0a4-f316-4548-8063-3dc93152d259")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -12599,7 +14396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Horizontal JST-SH 1x3"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -12607,6 +14404,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C160403"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9f28c35-48a2-4cfa-81de-8bdd47b35697")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "JST"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d8a4a26f-72f1-44a6-ace3-f3ade52a9714")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "SM03B-SRSS-TB(LF)(SN)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2a3be5f7-0759-45b8-b8eb-f291800045d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13043,7 +14882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Horizontal JST-SH 1x5"
 			(at 0 0 270)
 			(layer "B.Fab")
 			(hide yes)
@@ -13051,6 +14890,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C136657"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9e0d0a8-62bf-433a-892c-33e7620c1b83")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "JST"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0525ff9e-8e38-4415-94a4-911aa616916d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "SM05B-SRSS-TB(LF)(SN)"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c8013821-2624-4e44-a35d-085c3c9f3387")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13709,7 +15590,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 15pF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -13717,6 +15598,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C338103"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "18de3d53-e6de-4d11-8a13-c4252abae169")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "679c9547-4110-48e4-89c9-c21251c560ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B2C0G1H150JT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8fe4d9ee-87c9-41c1-a3ef-a67bfb6890bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -13873,7 +15796,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC#" "C60490"
+		(property "LCSC#" "C144807"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -13887,7 +15810,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0402FR-0710KL"
+		(property "MPN" "AC0402FR-0710KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -14053,7 +15976,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 27R"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -14061,6 +15984,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C226392"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ad69c05c-9e75-40aa-87aa-a038562f0766")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1eb2544c-6b5f-47ba-abd9-4d771399d095")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0727RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "06ed0b87-a744-4633-a181-5c5868f9e13f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14203,7 +16168,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 1uF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -14211,6 +16176,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C3835721"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cdbe1407-93be-454a-967a-f4aacaa67770")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "60c835e5-03ce-42db-861f-4254bc242e1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "GRM155R6YA105KE11J"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ad5b0ee-570e-47b8-b826-b3e2bbf3c7c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14353,7 +16360,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -14361,6 +16368,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C144807"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c3f5749a-8088-4da5-9637-262f0ffe3d51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "22c5034d-ca36-40b0-b972-2c78fd4f315e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0710KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "467544fb-9076-4767-86f6-34a329a72c78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14503,7 +16552,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -14511,6 +16560,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16050f14-19f4-459a-9473-c61ff0b42900")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91a51cda-a7c0-4532-9457-d25cd8529613")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5b7c1fa2-caf0-4b60-b394-8b06ecae6322")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -14666,6 +16757,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C5143397"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e14dec4f-469f-4871-9587-ae3e028741e0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "GCT"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b1734ab4-f157-4854-9b14-ae56f22e7a44")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "USB4110-GF-A"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "65d29062-37b2-47e4-a5d8-11d2c37a6407")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -15475,7 +17608,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15483,6 +17616,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C106235"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fb3455bb-f821-4b89-818f-fa970c46ff16")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3593e277-0b30-432d-a48d-65d3279f4d28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6992d5e5-9dd6-48ec-9fed-113c258f90de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15627,7 +17802,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 75R"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -15635,6 +17810,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C114757"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07c10d3c-dab5-44a1-93ab-2b6578cb91d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ed4a44c4-fbc7-4105-b9d6-4f068a09f799")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-0775RL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d93e63c8-91a7-44dc-8cfe-0a282afbe676")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -15785,6 +18002,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C20625731"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8aa5de9d-6031-409a-b109-b4cbc50169d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Abracon"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c696d17-923f-4064-8527-1d19feac2f9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "ABM8-272-T3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8164686f-f1e7-477e-9132-536f3de94fb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16039,7 +18298,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 10k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16047,6 +18306,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C144807"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fbc6cdb8-caba-4adc-abae-18f11eec3954")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "655c9713-fbd5-42e5-b741-376a8fdede0b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "AC0402FR-0710KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f157f68d-4cc0-4250-b754-bc030a409a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16189,7 +18490,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16197,6 +18498,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "61ec475a-6f27-4016-a908-a56a36f30bf3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9bf5663-6296-41de-abad-de518bce2ab4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70b9ecb0-6982-4038-b37c-b9c74d2b573a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16339,7 +18682,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16347,6 +18690,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "52a9a547-c4e4-4867-97d6-96b623f10964")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9d68aecf-7d5a-4f70-bbef-6112a2babe73")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4a81934e-1a78-4bff-b984-e1dffef8b85e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -16477,7 +18862,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/product-detail/C7463385.html"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C36384.html"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16489,7 +18874,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "100mA 1 2mV 150V/us 80dB 3pA 100MHz 4.9mA Rail-to-Rail Input, Rail-to-Rail Output SOT-23-5"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -16501,21 +18886,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Cosine"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "1efcb646-ab60-47b7-a058-0cfcbdbe6d7a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "MPN" "COS8051SOT"
+		(property "MPN" "OPA354AIDBVR"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -16529,12 +18900,26 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC" "C7463385"
-			(at 0 0 0)
+		(property "LCSC#" "C36384"
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0c35d523-b7a8-4ae3-b46d-b46a75d5bd68")
+			(uuid "fe838f67-89de-4458-88b1-09b80a44d39d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TI"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f16f51ce-fb03-4fca-a3a1-805d6e13ea1c")
 			(effects
 				(font
 					(size 1 1)
@@ -16923,7 +19308,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -16931,6 +19316,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "141df8f7-4480-4b6b-982b-22d6589d6107")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3eeaef32-408f-49bf-88b0-2df75e6498bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2f146067-83dd-424b-9421-dcd0a6df3800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17073,7 +19500,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "0402 160k"
+		(property "Description" "0402 75k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -17085,7 +19512,7 @@
 				(justify mirror)
 			)
 		)
-		(property "LCSC#" "C273334"
+		(property "LCSC#" "C137935"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17099,7 +19526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" "RC0402FR-07160KL"
+		(property "MPN" "RC0402FR-0775KL"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -17265,7 +19692,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 470nF 25V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -17273,6 +19700,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C92361"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "36db3935-d627-4958-abcd-f610d35b3dba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Samsung"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1929f654-88c2-4c87-bbd0-e05a723b6ec8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CL05A474KA5NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e99e1c0c-929d-45bd-b12c-592825f1b36c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17415,7 +19884,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -17423,6 +19892,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C106235"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f0fb853a-5c86-4638-99dd-b708bbb1c586")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5665d786-829c-4272-bd46-03eafd62b47c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a95d07c1-4ad3-4789-9763-221302e4be97")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17573,6 +20084,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C7519"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "449d7416-6a50-47c0-a13c-ac94daff8281")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "ST"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "327db751-74bf-4a78-b4b0-e5c374f7a41b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "USBLC6-2SC6"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "66a0567c-f9a3-4c83-8c00-d1cc2432dc1f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -17918,7 +20471,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -17926,6 +20479,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C106235"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4b21986e-eb4e-46cd-9149-78845c7adda6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "132c9928-4fc5-45a4-b0bd-24f0218a02cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7be69bf4-f6ae-4103-b85d-43ec3021dd8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18042,7 +20637,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Micro_SD_Card_Det1"
+		(property "Value" "473092651"
 			(at 11.6078 1.4224 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18066,7 +20661,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Micro SD Card Socket with one card detection pin"
+		(property "Description" "9 (8 + 1) Position Card Connector Secure Digital - microSD™ Surface Mount"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18074,6 +20669,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C587826"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91a5cb43-8390-4048-995e-a8067a31dba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Molex"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f3ca5643-716a-4e1a-a586-5489eb5dcc13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "473092651"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b95b21ca-9491-4043-8912-959d0ec3ad98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18407,6 +21044,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C475493"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a679897-2a36-475c-9535-63794c6af8bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TI"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1345a783-5e73-4cdd-bd64-d13c785cbcf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TS5A3159ADCK"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "515f1579-be96-4838-99e5-6a568c99c019")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18754,7 +21433,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18762,6 +21441,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a0dc3fc4-377c-46a4-9d8f-8a98ad502d59")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f6a1ceb7-2119-432d-899c-92017dce96b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "216698fb-3797-47b8-8d26-696987978abe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -18906,7 +21627,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -18914,6 +21635,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "60a28f38-f035-481c-966b-388c7b58d2bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3a9a5f3f-4df1-4d2b-a844-83153f937e96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5054c6c7-fb64-4cfa-a61a-4c61ba816379")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19069,6 +21832,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C3235557"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4339572e-d9fd-4cc0-ad74-b77956663dd3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TI"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "83c04b08-3ddc-4c47-880e-096943919aca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TPS2116DRLR"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fad7eccd-4acd-4335-97a4-cdce072c34bd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19362,7 +22167,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 4.7uF 25V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -19370,6 +22175,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C22385335"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c044e0d4-8686-4070-ba47-e0ccc5503b46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Taiyo Yuden"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a2a30463-8852-41d7-92e4-20d5b85241e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "TDK105CBJ475MV-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8e81a566-26a0-44fe-87fc-a202c207ec6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19513,7 +22360,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "45R 20pF QFN-16L EMI/RFI Filters (LC, RC Networks) RoHS"
 			(at 0 0 180)
 			(layer "B.Fab")
 			(hide yes)
@@ -19521,6 +22368,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C5267594"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77982e36-24dd-4114-aa9f-8c12284455df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "ST"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5c202f7-9e5b-47dd-812d-b11ec5d9b68b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "EMIF06-MSD02N16"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a086538f-693f-41e9-a618-aeb53753e39e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -19987,7 +22876,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 1k"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -19995,6 +22884,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C106235"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6a1d350a-2b17-42aa-b42d-0b95f32052e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f3f6954-7d6f-4d50-9d23-ffe811dfc692")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c93f859f-4e9c-4b15-89ff-0c83675c43af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20139,7 +23070,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20147,6 +23078,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "32b08ac6-2651-4ddd-84f9-88af8bb8d5b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64337bb0-024f-4e4e-bcaa-95794eabc2f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "abf1d6b4-3e63-49d0-9c7f-0799fbdb273e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -20880,7 +23853,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 3.09k"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -20888,6 +23861,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C852758"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3046c666-9827-4ec2-8558-f081712cfb9a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d14551b1-c907-4d6f-97b5-0386afca472e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CRCW04023K09FKED"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5e0b2c29-477f-4b8c-9859-fbedd73d2307")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21032,7 +24047,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 330pF 35V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21040,6 +24055,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C76965"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5aad0bf4-21fe-4cff-93f2-de2eaf336827")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Murata"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "600a6c3f-5e86-4b8f-b3c0-c26a868edd0f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "GRM1555C1H331JA01D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40538e8f-5338-4553-b991-4662c086ad67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21184,7 +24241,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 15pF 35V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21192,6 +24249,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C338103"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67194da3-b43e-47ae-9750-f3566697e12d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b8d88bb0-6d37-4bda-a613-271c30db7d49")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B2C0G1H150JT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cfbf3858-4a4e-4147-bec2-f1fa84ca8552")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21336,7 +24435,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 75R"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21344,6 +24443,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C114757"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0af42fda-79e1-4f88-b049-a264a5aa8540")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "522276e0-c70c-4148-89f6-20c19fc2823f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-0775RL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "039637d7-3e53-48a7-8b4d-bd3670f92e71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21678,7 +24819,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 0.1uF 35V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -21686,6 +24827,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C343047"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6d038f88-9a46-4d2a-be9c-421c0ff00592")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "TDK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99ffb05d-2ca8-4ad2-b34c-554c861ca664")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "784796df-a21e-44e2-8c8c-3eceb945f66f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21830,7 +25013,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 2k"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21838,6 +25021,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C60488"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "56e45d01-a6e4-42b4-bbec-62c5920db070")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cc91aec1-634f-4fb5-8c74-7a8429e19dae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "RC0402FR-072KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "254302b6-623d-4af3-8853-5e22b20abe6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -21980,7 +25205,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "0402 649R"
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
@@ -21988,6 +25213,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C2092539"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d606500c-e406-49fd-8a34-7a0bc46e4205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Vishay"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ef086d3a-466f-4e06-942e-254dd6abc134")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CRCW0402649RFKED"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01d6d423-9087-4f0c-ad48-c6a978d01002")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22130,7 +25397,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0402 470nF 25V"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -22138,6 +25405,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C92361"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c9ccf25f-c8d0-4a97-87b3-a47ba0855671")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Samsung"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f73dbe5c-52e4-4ed8-a7a8-09b9dcf70d1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "CL05A474KA5NNNC"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "28b41699-95b9-47b9-b0b2-3778de443cd5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -22282,7 +25591,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" "Schottky diode"
+		(property "Description" "Diode 40 V 100mA Surface Mount X1-DFN1006-2"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -22291,6 +25600,48 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC#" "C78151"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f6f8fcec-9e11-4a26-9071-244d12b8d17d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFR" "Diodes Inc."
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db21327c-89a3-4f24-9de4-88a35f56ab10")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" "SDM10U45LP-7"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "47704019-a9e3-4ba9-8ff4-44608abf4df0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
