@@ -2420,28 +2420,28 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at 25.4 8.636 0)
+			(property "Reference" "U5"
+				(at 12.446 8.636 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 				)
 			)
 			(property "Value" "EMIF06-MSD02N16"
-				(at 25.4 6.096 0)
+				(at 12.446 6.096 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
-						(size 1.524 1.524)
+						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "MICROQFN16_1P25X3P55X0P4_STM"
-				(at 0 0 0)
+			(property "Footprint" "Stratus:EMIF06-MSD02N16"
+				(at 38.1 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2464,8 +2464,41 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "45R 20pF QFN-16L EMI/RFI Filters (LC, RC Networks) RoHS"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC#" "C5267594"
+				(at 38.1 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MFR" "ST"
+				(at 38.1 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "EMIF06-MSD02N16"
+				(at 38.1 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -2510,7 +2543,7 @@
 			(symbol "EMIF06-MSD02N16_0_1"
 				(polyline
 					(pts
-						(xy 7.62 3.81) (xy 7.62 -25.4)
+						(xy -5.08 3.81) (xy 30.48 3.81)
 					)
 					(stroke
 						(width 0.127)
@@ -2522,7 +2555,7 @@
 				)
 				(polyline
 					(pts
-						(xy 7.62 -25.4) (xy 43.18 -25.4)
+						(xy -5.08 -25.4) (xy -5.08 3.81)
 					)
 					(stroke
 						(width 0.127)
@@ -2534,7 +2567,7 @@
 				)
 				(polyline
 					(pts
-						(xy 43.18 3.81) (xy 7.62 3.81)
+						(xy 30.48 3.81) (xy 30.48 -25.4)
 					)
 					(stroke
 						(width 0.127)
@@ -2546,7 +2579,7 @@
 				)
 				(polyline
 					(pts
-						(xy 43.18 -25.4) (xy 43.18 3.81)
+						(xy 30.48 -25.4) (xy -5.08 -25.4)
 					)
 					(stroke
 						(width 0.127)
@@ -2557,7 +2590,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 -1.27 0)
+					(at 38.1 -1.27 180)
 					(length 7.62)
 					(name "WD/CD"
 						(effects
@@ -2575,7 +2608,7 @@
 					)
 				)
 				(pin power_out line
-					(at 27.94 -33.02 90)
+					(at 10.16 -33.02 90)
 					(length 7.62)
 					(name "RDAT3_GND"
 						(effects
@@ -2593,7 +2626,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 0 -7.62 0)
+					(at 38.1 -7.62 180)
 					(length 7.62)
 					(name "DAT2_IN"
 						(effects
@@ -2611,7 +2644,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 0 -10.16 0)
+					(at 38.1 -10.16 180)
 					(length 7.62)
 					(name "DAT3_IN"
 						(effects
@@ -2629,7 +2662,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 -12.7 0)
+					(at 38.1 -12.7 180)
 					(length 7.62)
 					(name "CMD_IN"
 						(effects
@@ -2647,7 +2680,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 0 -15.24 0)
+					(at 38.1 -15.24 180)
 					(length 7.62)
 					(name "CLK_IN"
 						(effects
@@ -2665,7 +2698,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 0 -17.78 0)
+					(at 38.1 -17.78 180)
 					(length 7.62)
 					(name "DAT0_IN"
 						(effects
@@ -2683,7 +2716,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 0 -20.32 0)
+					(at 38.1 -20.32 180)
 					(length 7.62)
 					(name "DAT1_IN"
 						(effects
@@ -2701,7 +2734,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 50.8 -20.32 180)
+					(at -12.7 -20.32 0)
 					(length 7.62)
 					(name "DAT1_EX"
 						(effects
@@ -2719,7 +2752,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 50.8 -17.78 180)
+					(at -12.7 -17.78 0)
 					(length 7.62)
 					(name "DAT0_EX"
 						(effects
@@ -2737,7 +2770,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 50.8 -15.24 180)
+					(at -12.7 -15.24 0)
 					(length 7.62)
 					(name "CLK_EX"
 						(effects
@@ -2755,7 +2788,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 50.8 -12.7 180)
+					(at -12.7 -12.7 0)
 					(length 7.62)
 					(name "CMD_EX"
 						(effects
@@ -2773,7 +2806,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 50.8 -10.16 180)
+					(at -12.7 -10.16 0)
 					(length 7.62)
 					(name "DAT3_EX"
 						(effects
@@ -2791,7 +2824,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at 50.8 -7.62 180)
+					(at -12.7 -7.62 0)
 					(length 7.62)
 					(name "DAT2_EX"
 						(effects
@@ -2809,7 +2842,7 @@
 					)
 				)
 				(pin power_in line
-					(at 50.8 -2.54 180)
+					(at -12.7 -2.54 0)
 					(length 7.62)
 					(name "VCC"
 						(effects
@@ -2827,7 +2860,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 50.8 0 180)
+					(at -12.7 0 0)
 					(length 7.62)
 					(name "RDATA_VCC"
 						(effects
@@ -2845,7 +2878,7 @@
 					)
 				)
 				(pin power_out line
-					(at 22.86 -33.02 90)
+					(at 15.24 -33.02 90)
 					(length 7.62)
 					(name "GND"
 						(effects
@@ -3565,7 +3598,7 @@
 		(uuid "b08f3327-f5ce-4bcd-a25f-1c16a0999920")
 	)
 	(junction
-		(at 238.76 43.18)
+		(at 182.88 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6db5600-9b5d-43bc-ab51-a4a146019f8d")
@@ -3577,40 +3610,24 @@
 		(uuid "f0976d99-c096-4033-b647-24898938fc74")
 	)
 	(no_connect
-		(at 156.21 68.58)
-		(uuid "10d29399-3a36-4dd2-be1e-a86ee7673a38")
-	)
-	(no_connect
-		(at 185.42 50.8)
-		(uuid "25fcd386-e07f-4830-b139-21d536b1c23a")
-	)
-	(no_connect
 		(at 58.42 81.28)
 		(uuid "3076ce7d-5b2c-4576-959b-653cd29dc289")
 	)
 	(no_connect
-		(at 185.42 44.45)
+		(at 236.22 44.45)
 		(uuid "30aaa657-19e5-4d21-8718-1c49aa3048e6")
 	)
 	(no_connect
-		(at 156.21 50.8)
-		(uuid "3941873d-9736-4640-881b-be38f37108f7")
+		(at 236.22 63.5)
+		(uuid "4d8f81de-5d3e-4eec-9816-31151e531aca")
 	)
 	(no_connect
 		(at 156.21 149.86)
 		(uuid "5645b24f-f7f0-437d-99de-0bce332cec8a")
 	)
 	(no_connect
-		(at 245.11 50.8)
-		(uuid "77be29d1-62ab-43b8-a795-b03673904bf6")
-	)
-	(no_connect
-		(at 185.42 63.5)
-		(uuid "7d7d4557-267b-497b-969c-98bc940e9f5d")
-	)
-	(no_connect
-		(at 245.11 63.5)
-		(uuid "85c5fef1-6364-4ec8-ba22-0607927b2311")
+		(at 236.22 50.8)
+		(uuid "5a04ae3a-bac6-4097-abec-4a41a9b21062")
 	)
 	(no_connect
 		(at 156.21 73.66)
@@ -3873,16 +3890,6 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 50.8) (xy 245.11 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a123023-3bf8-41f0-8ea1-f35446c4890c")
-	)
-	(wire
-		(pts
 			(xy 208.28 76.2) (xy 210.82 76.2)
 		)
 		(stroke
@@ -3910,6 +3917,16 @@
 			(type default)
 		)
 		(uuid "24279d40-df12-4119-93f2-d05e6834a148")
+	)
+	(wire
+		(pts
+			(xy 182.88 43.18) (xy 185.42 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b7abcad-c38c-496f-88be-811d03d1bb31")
 	)
 	(wire
 		(pts
@@ -3993,7 +4010,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 43.18) (xy 238.76 40.64)
+			(xy 182.88 43.18) (xy 182.88 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4010,16 +4027,6 @@
 			(type default)
 		)
 		(uuid "4d77c8e7-e7e7-4260-b5cf-2c52a194f69c")
-	)
-	(wire
-		(pts
-			(xy 236.22 43.18) (xy 238.76 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52e79691-41a4-4253-b8f9-e4bf38294c89")
 	)
 	(wire
 		(pts
@@ -4143,6 +4150,16 @@
 	)
 	(wire
 		(pts
+			(xy 182.88 63.5) (xy 185.42 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b2786a1-366a-4a5b-80a5-b19060663f04")
+	)
+	(wire
+		(pts
 			(xy 60.96 71.12) (xy 58.42 71.12)
 		)
 		(stroke
@@ -4193,17 +4210,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 45.72) (xy 238.76 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86671ba2-d889-4d35-a649-db3ab9caae68")
-	)
-	(wire
-		(pts
-			(xy 238.76 45.72) (xy 238.76 43.18)
+			(xy 182.88 45.72) (xy 182.88 43.18)
 		)
 		(stroke
 			(width 0)
@@ -4323,6 +4330,26 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 68.58) (xy 182.88 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a33556f8-7c13-42bf-92a2-24080d06e468")
+	)
+	(wire
+		(pts
+			(xy 156.21 50.8) (xy 185.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a36086cc-1f34-4073-81c0-d4f593d3f945")
+	)
+	(wire
+		(pts
 			(xy 121.92 153.67) (xy 124.46 153.67)
 		)
 		(stroke
@@ -4343,13 +4370,13 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 63.5) (xy 245.11 63.5)
+			(xy 182.88 45.72) (xy 185.42 45.72)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9dc68b8-57c2-4762-bc99-ecc7d9ced3d1")
+		(uuid "b2fa9100-ad9a-465d-ba89-e5f1270649b8")
 	)
 	(wire
 		(pts
@@ -4590,6 +4617,16 @@
 			(type default)
 		)
 		(uuid "f1d849a9-a22f-45d1-a8ba-d67cde691e28")
+	)
+	(wire
+		(pts
+			(xy 182.88 68.58) (xy 182.88 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7827024-b5d4-4333-9221-2f270e8adf1f")
 	)
 	(wire
 		(pts
@@ -4895,7 +4932,7 @@
 	)
 	(global_label "V_3V3"
 		(shape input)
-		(at 238.76 40.64 90)
+		(at 182.88 40.64 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4905,7 +4942,7 @@
 		)
 		(uuid "699be178-f1d9-446e-810e-f25a1af7013e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 32.091 90)
+			(at 182.88 32.091 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5882,7 +5919,7 @@
 	)
 	(symbol
 		(lib_id "EMIF06-MSD02N16:EMIF06-MSD02N16")
-		(at 185.42 43.18 0)
+		(at 198.12 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5892,7 +5929,7 @@
 		(dnp no)
 		(uuid "9015e0ec-0107-414d-b904-e833675e5328")
 		(property "Reference" "U5"
-			(at 211.074 34.544 0)
+			(at 210.566 34.544 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5902,7 +5939,7 @@
 			)
 		)
 		(property "Value" "EMIF06-MSD02N16"
-			(at 211.074 37.084 0)
+			(at 210.566 37.084 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5912,7 +5949,7 @@
 			)
 		)
 		(property "Footprint" "Stratus:EMIF06-MSD02N16"
-			(at 185.42 43.18 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5924,7 +5961,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/emif06-msd02n16.pdf"
-			(at 185.42 43.18 0)
+			(at 198.12 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5936,7 +5973,7 @@
 			)
 		)
 		(property "Description" "45R 20pF QFN-16L EMI/RFI Filters (LC, RC Networks) RoHS"
-			(at 185.42 43.18 0)
+			(at 198.12 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5947,7 +5984,7 @@
 			)
 		)
 		(property "LCSC#" "C5267594"
-			(at 185.42 43.18 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5958,7 +5995,7 @@
 			)
 		)
 		(property "MFR" "ST"
-			(at 185.42 43.18 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5969,7 +6006,7 @@
 			)
 		)
 		(property "MPN" "EMIF06-MSD02N16"
-			(at 185.42 43.18 0)
+			(at 236.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
