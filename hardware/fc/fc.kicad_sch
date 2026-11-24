@@ -5,7 +5,7 @@
 	(uuid "6eb6d89e-9d71-4347-9ba3-a394c00e5720")
 	(paper "A4")
 	(title_block
-		(title "RP2354B; LSM6DSK320X Flight Controller")
+		(title "RP2354A; LSM6DSK320X Flight Controller")
 		(date "2026-09-17")
 		(rev "1")
 	)
@@ -3205,6 +3205,10 @@
 		(uuid "1a43d515-4bac-4da9-b46b-96435f9e1649")
 	)
 	(no_connect
+		(at 128.27 88.9)
+		(uuid "1e58eedc-a10d-48a7-83cb-3a6f855422e6")
+	)
+	(no_connect
 		(at 128.27 104.14)
 		(uuid "3391c689-b268-4374-bf41-a135f4f4b27d")
 	)
@@ -3219,10 +3223,6 @@
 	(no_connect
 		(at 77.47 134.62)
 		(uuid "6e3479af-796d-4154-9bc4-ebe0c7d3ef6a")
-	)
-	(no_connect
-		(at 128.27 91.44)
-		(uuid "9e055e0a-6822-4059-a700-08aca8b4a960")
 	)
 	(no_connect
 		(at 77.47 124.46)
@@ -3838,16 +3838,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 127) (xy 138.43 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b83978b-fb32-431e-9667-d488e93b4da7")
-	)
-	(wire
-		(pts
 			(xy 267.97 59.69) (xy 264.16 59.69)
 		)
 		(stroke
@@ -3888,16 +3878,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 88.9) (xy 138.43 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "524af21d-2bd5-44f2-98aa-f66d3045ba54")
-	)
-	(wire
-		(pts
 			(xy 267.97 97.79) (xy 278.13 97.79)
 		)
 		(stroke
@@ -3905,6 +3885,26 @@
 			(type default)
 		)
 		(uuid "526f4ffb-1d6b-46fb-a42d-fec58f737fe8")
+	)
+	(wire
+		(pts
+			(xy 128.27 91.44) (xy 138.43 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54bdddc6-ee8b-4dec-b9ab-bde7e2232491")
+	)
+	(wire
+		(pts
+			(xy 74.93 152.4) (xy 77.47 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55c87747-570c-4b84-a9e9-88c157d7ad81")
 	)
 	(wire
 		(pts
@@ -3948,7 +3948,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 152.4) (xy 77.47 152.4)
+			(xy 67.31 152.4) (xy 69.85 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4088,6 +4088,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 127) (xy 138.43 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e6b7d0d-d661-49eb-ae66-e679eafa5eed")
+	)
+	(wire
+		(pts
 			(xy 128.27 99.06) (xy 138.43 99.06)
 		)
 		(stroke
@@ -4205,6 +4215,16 @@
 			(type default)
 		)
 		(uuid "7ed2386c-6529-4449-a9f1-d43328173150")
+	)
+	(wire
+		(pts
+			(xy 267.97 143.51) (xy 278.13 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ef4e6af-9027-41f1-bec0-790b71292d1e")
 	)
 	(wire
 		(pts
@@ -4618,16 +4638,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 129.54) (xy 138.43 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c12a1ee4-2d54-4acd-b6bd-bf0d7665e7e2")
-	)
-	(wire
-		(pts
 			(xy 237.49 107.95) (xy 237.49 99.06)
 		)
 		(stroke
@@ -4996,6 +5006,16 @@
 		)
 		(uuid "fd1f1dde-0880-4dc4-b9f9-0411491ac507")
 	)
+	(wire
+		(pts
+			(xy 128.27 129.54) (xy 138.43 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff7fca58-946f-435b-9adf-b09ee532964a")
+	)
 	(label "SD.DAT0"
 		(at 176.53 106.68 0)
 		(effects
@@ -5096,6 +5116,16 @@
 		)
 		(uuid "1ce4237c-4397-4c01-8147-a9416765d537")
 	)
+	(label "ESC.TEL"
+		(at 138.43 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "243b98c6-01d2-4ecf-8d75-17d9f96a51c3")
+	)
 	(label "LED0"
 		(at 241.3 49.53 0)
 		(effects
@@ -5156,16 +5186,6 @@
 		)
 		(uuid "3d964a66-03cd-4ff5-bfbd-8851478e840c")
 	)
-	(label "OSD_SYNC"
-		(at 138.43 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3e13b3be-8dea-4f9e-bfe2-2d4017548387")
-	)
 	(label "IMU.MISO"
 		(at 138.43 119.38 180)
 		(effects
@@ -5186,16 +5206,6 @@
 		)
 		(uuid "47b638e3-29d2-4731-a866-0f5c9cc5ba6a")
 	)
-	(label "OSD_EN"
-		(at 138.43 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4a870a3c-3c44-48e4-8d3a-dd31c2cbb3ec")
-	)
 	(label "SD.DAT0"
 		(at 138.43 139.7 180)
 		(effects
@@ -5205,16 +5215,6 @@
 			(justify right bottom)
 		)
 		(uuid "4bf0381b-ea06-4376-96ee-053581ac4fae")
-	)
-	(label "ESC.TEL"
-		(at 138.43 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4eb22849-6505-415d-9e11-a4aafe9942e0")
 	)
 	(label "ESC.M4"
 		(at 176.53 100.33 0)
@@ -5245,6 +5245,16 @@
 			(justify right bottom)
 		)
 		(uuid "57b24b4e-e08e-47c3-b631-f745aa8b60fd")
+	)
+	(label "OSD_EN"
+		(at 138.43 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5a81ebef-3d79-49d4-a5b1-069431511023")
 	)
 	(label "SD.CLK"
 		(at 176.53 114.3 0)
@@ -5297,6 +5307,16 @@
 		(uuid "807f3a2f-d762-477a-b3a9-9514a6e952d7")
 	)
 	(label "VBAT_SNS"
+		(at 278.13 143.51 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "84f06f17-88b9-45b9-a4ce-e63230aaadd0")
+	)
+	(label "VBAT_SNS"
 		(at 138.43 157.48 180)
 		(effects
 			(font
@@ -5345,6 +5365,16 @@
 			(justify right bottom)
 		)
 		(uuid "af127125-a4da-47d3-9d9d-9898e2833e90")
+	)
+	(label "OSD_SYNC"
+		(at 138.43 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5493ab6-027e-4272-a2bd-1ec8b62719f7")
 	)
 	(label "ESC.M4"
 		(at 156.21 152.4 180)
@@ -6815,7 +6845,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 72.39 124.46 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6847,7 +6877,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 10k"
+		(property "Description" "0402 1k"
 			(at 72.39 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6858,7 +6888,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C144807"
+		(property "LCSC#" "C106235"
 			(at 72.39 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -6880,7 +6910,7 @@
 				)
 			)
 		)
-		(property "MPN" "AC0402FR-0710KL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 72.39 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -7941,6 +7971,119 @@
 			(project "fc"
 				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
 					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 72.39 152.4 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5774f98c-2418-4b34-aaea-3050422b4acb")
+		(property "Reference" "R32"
+			(at 72.39 147.32 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 72.39 149.86 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Stratus:R_0402"
+			(at 72.39 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "0402 1k"
+			(at 72.39 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC#" "C106235"
+			(at 72.39 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR" "Yageo"
+			(at 72.39 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 72.39 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a3f71d0d-cf40-48b3-8b24-83e5f8fa04a7")
+		)
+		(pin "1"
+			(uuid "0ff54ad9-a2d8-4851-8d97-8835d0ae1b3d")
+		)
+		(instances
+			(project "fc"
+				(path "/6eb6d89e-9d71-4347-9ba3-a394c00e5720"
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -11380,6 +11523,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(pin "VBAT_SNS" output
+			(at 267.97 143.51 0)
+			(uuid "0af40ac7-f6a2-4fa2-b701-953f02d33095")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances

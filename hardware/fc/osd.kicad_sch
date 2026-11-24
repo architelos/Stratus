@@ -2074,7 +2074,7 @@
 		)
 		(uuid "4b5cb4b5-e0be-4a33-a65b-5bc2c0705ba0")
 	)
-	(text "1.15V (GPIO high)\n0.45V (GPIO low)"
+	(text "1.41V (GPIO high)\n0.71V (GPIO low)"
 		(exclude_from_sim no)
 		(at 91.186 21.59 0)
 		(effects
@@ -3589,7 +3589,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "2k"
 			(at 161.29 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3622,7 +3622,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 1k"
+		(property "Description" "0402 2k"
 			(at 158.75 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -3633,7 +3633,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C106235"
+		(property "LCSC#" "C60488"
 			(at 158.75 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -3655,7 +3655,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-071KL"
+		(property "MPN" "RC0402FR-072KL"
 			(at 158.75 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -5269,7 +5269,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uF"
+		(property "Value" "4.7uF"
 			(at 186.69 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5302,7 +5302,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 0.1uF 35V"
+		(property "Description" "0402 4.7uF 25V"
 			(at 184.15 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -5313,7 +5313,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C343047"
+		(property "LCSC#" "C22385335"
 			(at 184.15 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5324,7 +5324,7 @@
 				)
 			)
 		)
-		(property "MFR" "TDK"
+		(property "MFR" "Taiyo Yuden"
 			(at 184.15 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -5335,7 +5335,7 @@
 				)
 			)
 		)
-		(property "MPN" "CGA2B3X7R1V104KT0Y0F"
+		(property "MPN" "TDK105CBJ475MV-F"
 			(at 184.15 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -6002,7 +6002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "649R"
+		(property "Value" "750R"
 			(at 113.03 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6035,7 +6035,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 649R"
+		(property "Description" "0402 750R"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6046,7 +6046,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C2092539"
+		(property "LCSC#" "C137936"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6057,7 +6057,7 @@
 				)
 			)
 		)
-		(property "MFR" "Vishay"
+		(property "MFR" "Yageo"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6068,7 +6068,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW0402649RFKED"
+		(property "MPN" "RC0402FR-07750RL"
 			(at 110.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6117,7 +6117,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.09k"
+		(property "Value" "2k"
 			(at 113.03 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6150,7 +6150,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 3.09k"
+		(property "Description" "0402 2k"
 			(at 110.49 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6161,7 +6161,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C852758"
+		(property "LCSC#" "C60488"
 			(at 110.49 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6172,7 +6172,7 @@
 				)
 			)
 		)
-		(property "MFR" "Vishay"
+		(property "MFR" "Yageo"
 			(at 110.49 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -6183,7 +6183,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW04023K09FKED"
+		(property "MPN" "RC0402FR-072KL"
 			(at 110.49 60.96 0)
 			(hide yes)
 			(show_name no)

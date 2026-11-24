@@ -2469,7 +2469,7 @@
 		)
 		(uuid "d6c45433-50aa-4351-96f0-c6fd185b66e4")
 	)
-	(text "4S @ 2.97V"
+	(text "5S @ 1.91V\n"
 		(exclude_from_sim no)
 		(at 45.466 49.276 0)
 		(effects
@@ -3437,7 +3437,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 69.85) (xy 66.04 69.85)
+			(xy 53.34 69.85) (xy 55.88 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3955,16 +3955,6 @@
 		)
 		(uuid "1d8924d3-fedc-4987-9166-f3497e2b3c34")
 	)
-	(label "VBAT_SNS"
-		(at 66.04 69.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3069aab3-f9d6-40e1-b81b-9f9d18e7035f")
-	)
 	(label "V_5V_BUCK"
 		(at 182.88 62.23 180)
 		(effects
@@ -4166,6 +4156,17 @@
 				(justify left)
 			)
 		)
+	)
+	(hierarchical_label "VBAT_SNS"
+		(shape output)
+		(at 55.88 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "97c6a71b-e296-4e00-b57a-4c202edcfd4a")
 	)
 	(symbol
 		(lib_name "C_Small_2")
@@ -7140,7 +7141,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "1k"
 			(at 55.88 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7173,7 +7174,7 @@
 				)
 			)
 		)
-		(property "Description" "0402 2k"
+		(property "Description" "0402 1k"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7184,7 +7185,7 @@
 				)
 			)
 		)
-		(property "LCSC#" "C60488"
+		(property "LCSC#" "C106235"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7206,7 +7207,7 @@
 				)
 			)
 		)
-		(property "MPN" "RC0402FR-072KL"
+		(property "MPN" "RC0402FR-071KL"
 			(at 53.34 74.93 0)
 			(hide yes)
 			(show_name no)
